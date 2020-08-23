@@ -1,0 +1,41 @@
+name: Ryan Shi
+description: >
+    Ryan Shi
+# about: >
+#     A blog by Ryan.
+#     <br><br>
+#     Follow me on twitter at <a href="http://www.twitter.com/irenetrampoline">@irenetrampoline</a>
+#     <br><br>
+#     <i>Views are my own and don’t necessarily reflect those of my employer.<i/>
+
+master_repo: false
+url: http://ryanzshi.github.io
+markdown: kramdown
+highlighter: rouge
+paginate_path: "/blog/page:num/"
+
+plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed', 'jekyll-redirect-from']
+
+paginate: 4
+
+# logo:             logo.png
+# disqus_shortname:
+
+rtl: false
+owner:
+  name:           Ryan
+  avatar:         "assets/ryan.jpg"
+  # email:          None
+  # Social networking links used in footer. Update and remove as you like.
+  twitter: https://twitter.com/ryanzshi
+  github: https://github.com/ryanzshi
+  # stackexchange: https://stackoverflow.com/users/859112/vinit-kumar?tab=profile
+  linkedin: http://linkedin.com/in/zheyuanryanshi
+  # For Google Authorship https://plus.google.com/authorship
+  # google_plus:
+
+# Analytics and webmaster tools stuff goes here
+google_analytics: UA-71571710-1
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
