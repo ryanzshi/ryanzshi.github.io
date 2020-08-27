@@ -49,6 +49,18 @@ Working paper, 2020.
 <blockquote>Artificial intelligence for social good (AI4SG) is a research theme that aims to use and advance artificial intelligence to address societal issues and improve the well-being of the world. AI4SG has received lots of attention from the research community in the past decade with several successful applications. Building on the most comprehensive collection of the AI4SG literature to date with over 1000 contributed papers, we provide a detailed account and analysis of the work under the theme in the following ways. (1) We quantitatively analyze the distribution and trend of the AI4SG literature in terms of application domains and AI techniques used. (2) We propose three conceptual methods to systematically group the existing literature and analyze the eight AI4SG application domains in a unified framework. (3) We distill five research topics that represent the common challenges in AI4SG across various application domains. (4) We discuss five issues that, we hope, can shed light on the future development of the AI4SG research.</blockquote>
 </div>
 
+**Bandit Data-driven Optimization: AI for Social Good and Beyond**
+<br>
+Zheyuan Ryan Shi, Zhiwei Steven Wu, Rayid Ghani, Fei Fang
+<br>
+Working paper, 2020.
+<br>
+<a id="abs-bandit-button" onclick="absCHF('abs-bandit')">[Abstract]</a>[[Initial version]](https://arxiv.org/abs/2008.11707)
+<div id="abs-bandit" style="display:none;">
+<blockquote>The use of machine learning (ML) systems in real-world applications entails more than just a prediction algorithm. AI for social good applications, and many real-world ML tasks in general, feature an iterative process which joins prediction, optimization, and data acquisition happen in a loop. We introduce bandit data-driven optimization, the first iterative prediction-prescription framework to formally analyze this practical routine. Bandit data-driven optimization combines the advantages of online bandit learning and offline predictive analytics in an integrated framework. It offers a flexible setup to reason about unmodeled policy objectives and unforeseen consequences. We propose PROOF, the first algorithm for this framework and show that it achieves no-regret. Using numerical simulations, we show that PROOF achieves superior performance over existing baseline.</blockquote>
+</div>
+
+
 **Improving Efficiency of Volunteer-Based Food Rescue Operations**
 <br>
 Zheyuan Ryan Shi, Yiwen Yuan, Kimberly Lo, Leah Lizarondo, Fei Fang
