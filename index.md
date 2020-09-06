@@ -15,7 +15,7 @@ redirect_from:
 <img class="profile-picture" src="assets/ryan.jpg">
 
 
-I research, develop, deploy, and evaluate AI for social good. [[CV]](assets/CV_Complete_Ryan_Shi.pdf)
+I research, develop, deploy, and evaluate AI for social good. [[CV]](assets/RS_CV_web.pdf)
 
 Fei Fang makes this unworldly dream possible. I also work with Rayid Ghani and Steven Wu.
 
