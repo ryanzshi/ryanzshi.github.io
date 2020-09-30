@@ -102,7 +102,7 @@ Working paper, 2020. Appeared at AAAI-20 workshop.
 <br>
 Zheyuan Ryan Shi, Ariel D. Procaccia, Kevin S. Chan, Sridhar Venkatesan, Noam Ben-Asher, Nandi O. Leslie, Charles Kamhoua, Fei Fang
 <br>
-Working paper, 2019. Appeared at EC-19, IJCAI-19 workshops.
+GameSec-20: the 11th Conference on Decision and Game Theory for Security
 <br>
 <a id="abs-fdg-button" onclick="absCHF('abs-fdg19')">[Abstract]</a>[[full version]](https://arxiv.org/abs/1905.04833)
 <div id="abs-fdg19" style="display:none;">
