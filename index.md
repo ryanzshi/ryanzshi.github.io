@@ -91,7 +91,7 @@ IAAI-20: 32nd Annual Conference on Innovative Applications of Artificial Intelli
 <br>
 Zihan Zhou, Zheyuan Ryan Shi, Yi Wu, Fei Fang
 <br>
-AAAI20-RLG: AAAI-21 Workshop on Reinforcement Learning in Games
+AAAI20-RLG: AAAI-20 Workshop on Reinforcement Learning in Games
 <br>
 <a id="abs-pbne-button" onclick="absCHF('abs-pbne20')">[Abstract]</a>
 <div id="abs-pbne20" style="display:none;">
