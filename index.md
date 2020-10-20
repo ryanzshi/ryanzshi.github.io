@@ -61,6 +61,17 @@ Working paper, 2020.
 </div>
 
 
+**A Recommender System for Crowdsourcing Food Rescue Platforms**
+<br>
+Zheyuan Ryan Shi, Leah Lizarondo, Fei Fang
+<br>
+Working paper, 2020.
+<br>
+<a id="abs-frrecsys-button" onclick="absCHF('abs-frrecsys')">[Abstract]</a>
+<div id="abs-frrecsys" style="display:none;">
+<blockquote>The challenges of food waste and insecurity arise in wealthy and developing nations alike, impacting millions of livelihoods. The ongoing pandemic only exacerbates the problem. A major force to combat food waste and insecurity, food rescue (FR) organizations match food donations to the non-profits that serve low-resource communities. Since they rely on external volunteers to pick up and deliver the food, some FRs use web-based mobile applications to reach the right set of volunteers. In this paper, we propose the first machine learning based model to improve volunteer engagement in the food waste and security domain. We (1) develop a recommender system to send push notifications to the most likely volunteers for each given rescue, (2) leverage a mathematical programming based approach to diversify our recommendations, and (3) propose an online algorithm to dynamically select the volunteers to notify without the knowledge of future rescues. Our recommendation system improves the hit ratio from 44% achieved by the previous method to 73%. A pilot study of our method is scheduled to take place in the near future.</blockquote>
+</div>
+
 **Improving Efficiency of Volunteer-Based Food Rescue Operations**
 <br>
 Zheyuan Ryan Shi, Yiwen Yuan, Kimberly Lo, Leah Lizarondo, Fei Fang
