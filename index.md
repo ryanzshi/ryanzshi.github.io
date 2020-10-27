@@ -37,7 +37,7 @@ function absCHF(Id) {
 </script>
 
 ### Meta Exploration & Reflection on AI for Social Good
-AI is easy, social good is hard. The former is shown below, the latter takes a life to live up to.
+<!---AI is easy, social good is hard. The former is shown below, the latter takes a life to live up to. --->
 
 **AI for Social Good: Between My Research and the Real World**
 <br>
