@@ -17,9 +17,9 @@ redirect_from:
 
 I research, develop, deploy, and evaluate AI for social good. [[CV]](assets/RS_CV_web.pdf)
 
-Fei Fang makes this unworldly dream possible.
+My technical research lies in online learning, game theory, and reinforcement learning.
 
-My technical research lies in data science, game theory, and reinforcement learning.
+<font color="#B03A2E">I am looking for opportunities to sustain this endeavor in the long run. If you have internship/full-time positions (summer 2021 onwards) in relevant domains, please contact me.</font>
 
 Contact: ryanshi[attt]cmu[dott]edu.
 
