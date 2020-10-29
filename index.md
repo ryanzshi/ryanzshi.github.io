@@ -36,19 +36,10 @@ function absCHF(Id) {
 }
 </script>
 
-### Meta Exploration & Reflection on AI for Social Good
+### The Science of AI for Social Good
 <!---AI is easy, social good is hard. The former is shown below, the latter takes a life to live up to. --->
 
-**AI for Social Good: Between My Research and the Real World**
-<br>
-Zheyuan Ryan Shi
-<br>
-AAAI-21: the 35th AAAI Conference on Artificial Intelligence, Doctoral Consortium.
-<br>
-<a id="abs-aaaidc-button" onclick="absCHF('abs-aaaidc')">[Abstract]</a>
-<div id="abs-aaaidc" style="display:none;">
-<blockquote>AI for social good (AI4SG) is a research theme that aims to use and advance AI to improve the well-being of society. My work on AI4SG builds a two-way bridge between the research world and the real world. Using my unique experience in food waste and security, I propose applied AI4SG research that directly addresses real-world challenges which have received little attention from the community. Drawing from my experience in various AI4SG application domains, I propose bandit data-driven optimization, the first iterative prediction-prescription framework and a no-regret algorithm PROOF. I will apply PROOF back to my applied work on AI4SG, thereby closing the loop in a single framework.</blockquote>
-</div>
+
 
 
 **Bandit Data-driven Optimization: AI for Social Good and Beyond**
@@ -57,16 +48,33 @@ Zheyuan Ryan Shi, Zhiwei Steven Wu, Rayid Ghani, Fei Fang
 <br>
 Working paper, 2020.
 <br>
+Summary: A first research problem of, from, and for AI for social good.
+<br>
 <a id="abs-bandit-button" onclick="absCHF('abs-bandit')">[Abstract]</a>[[Initial version]](https://arxiv.org/abs/2008.11707)
 <div id="abs-bandit" style="display:none;">
 <blockquote>The use of machine learning (ML) systems in real-world applications entails more than just a prediction algorithm. AI for social good applications, and many real-world ML tasks in general, feature an iterative process which joins prediction, optimization, and data acquisition happen in a loop. We introduce bandit data-driven optimization, the first iterative prediction-prescription framework to formally analyze this practical routine. Bandit data-driven optimization combines the advantages of online bandit learning and offline predictive analytics in an integrated framework. It offers a flexible setup to reason about unmodeled policy objectives and unforeseen consequences. We propose PROOF, the first algorithm for this framework and show that it achieves no-regret. Using numerical simulations, we show that PROOF achieves superior performance over existing baseline.</blockquote>
 </div>
 
-**Artificial Intelligence for Social Good: A Survey**
+**[Broader Audience] AI for Social Good: Between My Research and the Real World**
+<br>
+Zheyuan Ryan Shi
+<br>
+AAAI-21: the 35th AAAI Conference on Artificial Intelligence, Doctoral Consortium.
+<br>
+Summary: Overview of (an important part of) my thesis.
+<br>
+<a id="abs-aaaidc-button" onclick="absCHF('abs-aaaidc')">[Abstract]</a>[Full version TBA]
+<div id="abs-aaaidc" style="display:none;">
+<blockquote>AI for social good (AI4SG) is a research theme that aims to use and advance AI to improve the well-being of society. My work on AI4SG builds a two-way bridge between the research world and the real world. Using my unique experience in food waste and security, I propose applied AI4SG research that directly addresses real-world challenges which have received little attention from the community. Drawing from my experience in various AI4SG application domains, I propose bandit data-driven optimization, the first iterative prediction-prescription framework and a no-regret algorithm PROOF. I will apply PROOF back to my applied work on AI4SG, thereby closing the loop in a single framework.</blockquote>
+</div>
+
+**[Broader Audience] Artificial Intelligence for Social Good: A Survey**
 <br>
 Zheyuan Ryan Shi, Claire Wang, Fei Fang
 <br>
 Working paper, 2020.
+<br>
+Summary: The title says it all.
 <br>
 <a id="abs-ai4sg-button" onclick="absCHF('abs-ai4sg')">[Abstract]</a>[[Initial version]](https://arxiv.org/abs/2001.01818)[<b><font color="#B03A2E">[2020 Symposium on AI and Social Good @CMU]</font></b>](http://aiandsocialgood.org/aisoc20)
 <div id="abs-ai4sg" style="display:none;">
@@ -75,7 +83,7 @@ Working paper, 2020.
 
 ---
 
-### Data Science for Food Waste and Security
+### Machine Learning for Food Waste and Security
 
 **A Recommender System for Crowdsourcing Food Rescue Platforms**
 <br>
