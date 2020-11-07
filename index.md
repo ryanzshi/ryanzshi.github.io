@@ -48,6 +48,12 @@ Zheyuan Ryan Shi, Zhiwei Steven Wu, Rayid Ghani, Fei Fang
 <br>
 Working paper, 2020.
 <br>
+NeurIPS-20 workshop: Machine Learning for Economic Policy
+<br>
+NeurIPS-20 workshop: Consequential Decisions in Dynamic Environments
+<br>
+NeurIPS-20 workshop: Machine Learning for the Developing World (ML4D)
+<br>
 Summary: A first research problem of, from, and for AI for social good.
 <br>
 <a id="abs-bandit-button" onclick="absCHF('abs-bandit')">[Abstract]</a>[[Initial version]](https://arxiv.org/abs/2008.11707)
