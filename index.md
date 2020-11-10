@@ -69,7 +69,7 @@ AAAI-21: the 35th AAAI Conference on Artificial Intelligence, Doctoral Consortiu
 <br>
 Summary: Overview of (an important part of) my thesis.
 <br>
-<a id="abs-aaaidc-button" onclick="absCHF('abs-aaaidc')">[Abstract]</a>[Full version TBA]
+<a id="abs-aaaidc-button" onclick="absCHF('abs-aaaidc')">[Abstract]</a>[Sister version: AI for Social Good: a Tale of Two Fantasy Worlds TBA soon]
 <div id="abs-aaaidc" style="display:none;">
 <blockquote>AI for social good (AI4SG) is a research theme that aims to use and advance AI to improve the well-being of society. My work on AI4SG builds a two-way bridge between the research world and the real world. Using my unique experience in food waste and security, I propose applied AI4SG research that directly addresses real-world challenges which have received little attention from the community. Drawing from my experience in various AI4SG application domains, I propose bandit data-driven optimization, the first iterative prediction-prescription framework and a no-regret algorithm PROOF. I will apply PROOF back to my applied work on AI4SG, thereby closing the loop in a single framework.</blockquote>
 </div>
