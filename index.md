@@ -19,7 +19,7 @@ I research, develop, deploy, and evaluate AI for social good. [[CV]](assets/RS_C
 
 My technical research lies in online learning, game theory, and reinforcement learning.
 
-<font color="#B03A2E">I am looking for opportunities to sustain this endeavor in the long run. If you have internship/full-time positions (summer 2021 onwards) in relevant domains, please contact me.</font>
+<font color="#B03A2E">I am trying to sustain this endeavor in the long run. If you have internship/full-time positions (summer 2021 onwards) in relevant domains, please contact me.</font>
 
 Contact: ryanshi[attt]cmu[dott]edu.
 
@@ -37,10 +37,6 @@ function absCHF(Id) {
 </script>
 
 ### The Science of AI for Social Good
-<!---AI is easy, social good is hard. The former is shown below, the latter takes a life to live up to. --->
-
-
-
 
 **Bandit Data-driven Optimization: AI for Social Good and Beyond**
 <br>
@@ -69,7 +65,7 @@ AAAI-21: the 35th AAAI Conference on Artificial Intelligence, Doctoral Consortiu
 <br>
 Summary: Overview of (an important part of) my thesis.
 <br>
-<a id="abs-aaaidc-button" onclick="absCHF('abs-aaaidc')">[Abstract]</a>[Sister version: AI for Social Good: a Tale of Two Fantasy Worlds TBA soon]
+<a id="abs-aaaidc-button" onclick="absCHF('abs-aaaidc')">[Abstract]</a>[*Sister version* AI for Social Good: a Tale of Two Fantasy Worlds TBA]
 <div id="abs-aaaidc" style="display:none;">
 <blockquote>AI for social good (AI4SG) is a research theme that aims to use and advance AI to improve the well-being of society. My work on AI4SG builds a two-way bridge between the research world and the real world. Using my unique experience in food waste and security, I propose applied AI4SG research that directly addresses real-world challenges which have received little attention from the community. Drawing from my experience in various AI4SG application domains, I propose bandit data-driven optimization, the first iterative prediction-prescription framework and a no-regret algorithm PROOF. I will apply PROOF back to my applied work on AI4SG, thereby closing the loop in a single framework.</blockquote>
 </div>
