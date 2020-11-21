@@ -19,7 +19,7 @@ I research, develop, deploy, and evaluate AI for social good. [[CV]](assets/RS_C
 
 My technical research lies in online learning, game theory, and reinforcement learning.
 
-<font color="#B03A2E">I am trying to sustain this endeavor in the long run. If you have internship/full-time positions (summer 2021 onwards) in relevant domains, please contact me.</font>
+<font color="#B03A2E">I am trying to sustain this endeavor in the long run. If you have relevant opportunities (summer 2021 onwards), please contact me.</font>
 
 Contact: ryanshi[attt]cmu[dott]edu.
 
@@ -48,9 +48,9 @@ NeurIPS-20 workshop: Machine Learning for Economic Policy
 <br>
 NeurIPS-20 workshop: Consequential Decisions in Dynamic Environments
 <br>
-NeurIPS-20 workshop: Machine Learning for the Developing World (ML4D)
+NeurIPS-20 workshop: Machine Learning for the Developing World
 <br>
-Summary: A first research problem of, from, and for AI for social good.
+Summary: A research problem of, from, and for AI for social good.
 <br>
 <a id="abs-bandit-button" onclick="absCHF('abs-bandit')">[Abstract]</a>[[Initial version]](https://arxiv.org/abs/2008.11707)
 <div id="abs-bandit" style="display:none;">
