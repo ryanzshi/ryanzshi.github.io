@@ -212,5 +212,5 @@ URTC-16: 2016 MIT IEEE Undergraduate Research Technology Conference
 
 
 <footer>
-<p><small>Copyright 2016 - {{site.time | date:"%Y"}} by Zheyuan Ryan Shi</small> | Social media does not define my research | My affiliation does not define me </p>
+<p><small>Copyright 2016 - {{site.time | date:"%Y"}} by Zheyuan Ryan Shi | Social media does not define my research | My affiliation does not define me </small></p>
 </footer>
