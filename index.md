@@ -19,7 +19,7 @@ I research, develop, deploy, and evaluate AI for social good. [[CV]](assets/RS_C
 
 My technical research lies in online learning, game theory, and reinforcement learning.
 
-<font color="#B03A2E">I try to do useful work, whatever it takes.</font> [Fei Fang](https://feifang.info/) makes this possible.
+I insist on doing useful work. [Fei Fang](https://feifang.info/) makes this possible.
 
 Contact: ryanshi[attt]cmu[dott]edu.
 
