@@ -21,7 +21,7 @@ My technical research lies in online learning, game theory, and reinforcement le
 
 I just want to do useful work. [Fei Fang](https://feifang.info/) makes this possible.
 
-Contact: ryanshi[attt]cmu[dott]edu.
+Contact: ryanshi[attt]cmu[dott]edu. I keep my research off my social media.
 
 ---
 
@@ -212,5 +212,5 @@ URTC-16: 2016 MIT IEEE Undergraduate Research Technology Conference
 
 
 <footer>
-<p><small>Copyright 2016 - {{site.time | date:"%Y"}} by Zheyuan Ryan Shi | My research is off my social media. </small></p>
+<p><small>Copyright 2016 - {{site.time | date:"%Y"}} by Zheyuan Ryan Shi </small></p>
 </footer>
