@@ -21,7 +21,7 @@ My technical research lies in online learning, game theory, and reinforcement le
 
 I just want to do useful work. [Fei Fang](https://feifang.info/) makes this possible.
 
-Contact: ryanshi[attt]cmu[dott]edu. I keep my research off my social media.
+My social media does not serve my work. Rather than embrace the world, I embrace you. We can talk.
 
 ---
 
