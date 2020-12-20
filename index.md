@@ -15,7 +15,7 @@ redirect_from:
 <img class="profile-picture" src="assets/ryan.jpg">
 
 
-I research, develop, deploy, and evaluate AI for social good (AI4SG). [[CV]](assets/RS_CV_web.pdf)
+I research, develop, deploy, and evaluate AI for social good. [[CV]](assets/RS_CV_web.pdf)
 
 My technical research lies in online learning, game theory, and reinforcement learning.
 
