@@ -19,9 +19,9 @@ I research, develop, deploy, and evaluate AI for social good. [[CV]](assets/RS_C
 
 My technical research lies in online learning, game theory, and reinforcement learning.
 
-I just want to do useful work. [Fei Fang](https://feifang.info/) makes this possible.
+I just want to do useful stuff. [Fei Fang](https://feifang.info/) makes this possible.
 
-My research happens on the ground, rather than Twitter.
+My research happens on the ground, not Twitter.
 
 ---
 
