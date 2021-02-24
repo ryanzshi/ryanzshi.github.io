@@ -21,9 +21,15 @@ My technical research lies in online learning, game theory, and reinforcement le
 
 I just want to do useful stuff. [Fei Fang](https://feifang.info/) makes this possible.
 
-My research happens on the ground, not Twitter.
+### News
 
----
+Putting together the [<b><font color="#B03A2E">2021 Symposium on AI and Social Good</font></b>](http://aiandsocialgood.org/aisoc21), live on April 30, 2021.
+
+AI4SG survey paper rejected from ACM CSUR. Working on a major update to make it publicly available.
+
+Summer 2021 @ some tech company. [On Dirt](http://www.lehman-intl.com/jeffreylehman/speeches/on_dirt_may_30_2004.html)
+
+
 
 <script>
 function absCHF(Id) {
@@ -83,7 +89,7 @@ Summary: The title says it all.
 <blockquote>Artificial intelligence for social good (AI4SG) is a research theme that aims to use and advance artificial intelligence to address societal issues and improve the well-being of the world. AI4SG has received lots of attention from the research community in the past decade with several successful applications. Building on the most comprehensive collection of the AI4SG literature to date with over 1000 contributed papers, we provide a detailed account and analysis of the work under the theme in the following ways. (1) We quantitatively analyze the distribution and trend of the AI4SG literature in terms of application domains and AI techniques used. (2) We propose three conceptual methods to systematically group the existing literature and analyze the eight AI4SG application domains in a unified framework. (3) We distill five research topics that represent the common challenges in AI4SG across various application domains. (4) We discuss five issues that, we hope, can shed light on the future development of the AI4SG research.</blockquote>
 </div>
 
----
+
 
 ### Machine Learning for Food Waste and Security
 
@@ -111,7 +117,6 @@ rescue platforms match excess food with the communities in need, and leverage ex
 </div>
 
 
----
 
 ### Game Theory & Reinforcement Learning for Sustainability
 
@@ -149,7 +154,6 @@ IJCAI-ECAI-18: the 27th International Joint Conference on Artificial Intelligenc
 <blockquote>Effective game-theoretic modeling of defender-attacker behavior is becoming increasingly important. In many domains, the defender functions not only as a player but also the designer of the game's payoff structure. We study Stackelberg Security Games where the defender, in addition to allocating defensive resources to protect targets from the attacker, can strategically manipulate the attacker's payoff under budget constraints in weighted L^p-norm form regarding the amount of change. Focusing on problems with weighted L^1-norm form constraint, we present (i) a mixed integer linear program-based algorithm with approximation guarantee; (ii) a branch-and-bound based algorithm with improved efficiency achieved by effective pruning; (iii) a polynomial time approximation scheme for a special but practical class of problems. In addition, we show that problems under budget constraints in L^0-norm form and weighted L^\infty-norm form can be solved in polynomial time. We provide an extensive experimental evaluation of our proposed algorithms.</blockquote>
 </div>
 
----
 
 ### Machine Learning & Game Theory for Cyber Security
 
@@ -176,8 +180,6 @@ IAAI-20: 32nd Annual Conference on Innovative Applications of Artificial Intelli
 <blockquote>Cyber adversaries have increasingly leveraged social engineering attacks to breach large organizations and threaten the well-being of today's online users. One clever technique, the "watering hole" attack, compromises a legitimate website to execute drive-by download attacks by redirecting users to another malicious domain. We introduce a game-theoretic model that captures the salient aspects for an organization protecting itself from a watering hole attack by altering the environment information in web traffic so as to deceive the attackers. Our main contributions are (1) a novel Social Engineering Deception (SED) game model that features a continuous action set for the attacker, (2) an in-depth analysis of the SED model to identify computationally feasible real-world cases, and (3) the CyberTWEAK algorithm which solves for the optimal protection policy. To illustrate the potential use of our framework, we built a browser extension based on our algorithms which is now publicly available online. The CyberTWEAK extension will be vital to the continued development and deployment of countermeasures for social engineering.</blockquote>
 </div>
 
-
----
 
 ### Miscellaneous
 
