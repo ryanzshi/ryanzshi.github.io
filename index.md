@@ -25,7 +25,7 @@ I just want to do useful stuff. [Fei Fang](https://feifang.info/) makes this pos
 
 Putting together the [<b><font color="#B03A2E">2021 Symposium on AI and Social Good</font></b>](http://aiandsocialgood.org/aisoc21), live on April 30, 2021.
 
-AI4SG survey paper rejected from ACM CSUR. Working on a major update to make it publicly available.
+After an unsuccessful attempt to publish the AI4SG survey, we will revise it for a public edition.
 
 Summer 2021 @ some tech company. [On Dirt](http://www.lehman-intl.com/jeffreylehman/speeches/on_dirt_may_30_2004.html)
 
