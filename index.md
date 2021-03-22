@@ -15,21 +15,13 @@ redirect_from:
 <img class="profile-picture" src="assets/ryan.jpg">
 
 
-I research, develop, deploy, and evaluate AI for social good. [[CV]](assets/RS_CV_web.pdf)
+I (try to) research, develop, deploy, and evaluate AI for social good. [[CV]](assets/RS_CV_web.pdf)
 
 My technical research lies in online learning, game theory, and reinforcement learning.
 
 I just want to do useful stuff. [Fei Fang](https://feifang.info/) makes this possible.
 
-### News
-
-Putting together the [<b><font color="#B03A2E">2021 Symposium on AI and Social Good</font></b>](http://aiandsocialgood.org/aisoc21), live on April 30, 2021.
-
-After an unsuccessful attempt to publish the AI4SG survey, we will revise it for a public edition.
-
-Summer 2021 @ some tech company. [On Dirt](http://www.lehman-intl.com/jeffreylehman/speeches/on_dirt_may_30_2004.html)
-
-
+[<b><font color="#B03A2E">2021 Symposium on AI and Social Good</font></b>](http://aiandsocialgood.org/aisoc21), April 30, 2021.
 
 <script>
 function absCHF(Id) {
@@ -42,7 +34,7 @@ function absCHF(Id) {
 }
 </script>
 
-### The Science of AI for Social Good
+
 
 **Bandit Data-driven Optimization: AI for Social Good and Beyond**
 <br>
@@ -56,33 +48,27 @@ NeurIPS-20 workshop: Consequential Decisions in Dynamic Environments
 <br>
 NeurIPS-20 workshop: Machine Learning for the Developing World
 <br>
-Summary: A research problem of, from, and for AI for social good.
-<br>
 <a id="abs-bandit-button" onclick="absCHF('abs-bandit')">[Abstract]</a>[[Initial version]](https://arxiv.org/abs/2008.11707)
 <div id="abs-bandit" style="display:none;">
 <blockquote>The use of machine learning (ML) systems in real-world applications entails more than just a prediction algorithm. AI for social good applications, and many real-world ML tasks in general, feature an iterative process which joins prediction, optimization, and data acquisition happen in a loop. We introduce bandit data-driven optimization, the first iterative prediction-prescription framework to formally analyze this practical routine. Bandit data-driven optimization combines the advantages of online bandit learning and offline predictive analytics in an integrated framework. It offers a flexible setup to reason about unmodeled policy objectives and unforeseen consequences. We propose PROOF, the first algorithm for this framework and show that it achieves no-regret. Using numerical simulations, we show that PROOF achieves superior performance over existing baseline.</blockquote>
 </div>
 
-**[Broader Audience] AI for Social Good: Between My Research and the Real World**
+**AI for Social Good: Between My Research and the Real World**
 <br>
 Zheyuan Ryan Shi
 <br>
 AAAI-21: the 35th AAAI Conference on Artificial Intelligence, Doctoral Consortium.
-<br>
-Summary: Overview of (an important part of) my thesis.
 <br>
 <a id="abs-aaaidc-button" onclick="absCHF('abs-aaaidc')">[Abstract]</a>[*Sister version* AI for Social Good: a Tale of Two Fantasy Worlds TBA]
 <div id="abs-aaaidc" style="display:none;">
 <blockquote>AI for social good (AI4SG) is a research theme that aims to use and advance AI to improve the well-being of society. My work on AI4SG builds a two-way bridge between the research world and the real world. Using my unique experience in food waste and security, I propose applied AI4SG research that directly addresses real-world challenges which have received little attention from the community. Drawing from my experience in various AI4SG application domains, I propose bandit data-driven optimization, the first iterative prediction-prescription framework and a no-regret algorithm PROOF. I will apply PROOF back to my applied work on AI4SG, thereby closing the loop in a single framework.</blockquote>
 </div>
 
-**[Broader Audience] Artificial Intelligence for Social Good: A Survey**
+**Artificial Intelligence for Social Good: A Survey**
 <br>
 Zheyuan Ryan Shi, Claire Wang, Fei Fang
 <br>
 Working paper, 2020.
-<br>
-Summary: The title says it all.
 <br>
 <a id="abs-ai4sg-button" onclick="absCHF('abs-ai4sg')">[Abstract]</a>[[Initial version]](https://arxiv.org/abs/2001.01818)[<b><font color="#B03A2E">[2020 Symposium on AI and Social Good @CMU]</font></b>](http://aiandsocialgood.org/aisoc20)
 <div id="abs-ai4sg" style="display:none;">
@@ -90,8 +76,6 @@ Summary: The title says it all.
 </div>
 
 
-
-### Machine Learning for Food Waste and Security
 
 **A Recommender System for Crowdsourcing Food Rescue Platforms**
 <br>
@@ -116,9 +100,28 @@ IAAI-20: 32nd Annual Conference on Innovative Applications of Artificial Intelli
 rescue platforms match excess food with the communities in need, and leverage external volunteers to transport the food. However, the external volunteers bring significant uncertainty to the food rescue operation. We work with a large food rescue organization to predict the uncertainty and furthermore to find ways to reduce the human dispatcher’s workload and the redundant notifications sent to volunteers. We make two main contributions. (1) We train a stacking model which predicts whether a rescue will be claimed with high precision and AUC. This model can help the dispatcher better plan for backup options and alleviate their uncertainty. (2) We develop a data-driven optimization algorithm to compute the optimal intervention and notification scheme. The algorithm uses a novel counterfactual data generation approach and the branch and bound framework. Our result reduces the number of notifications and interventions required in the food rescue operation. We are working with the organization to deploy our results in the near future.</blockquote>
 </div>
 
+**Draining the Water Hole: Mitigating Social Engineering Attacks with CyberTWEAK**
+<br>
+Zheyuan Ryan Shi, Aaron Schlenker, Brian Hay, Daniel Bittleston, Siyu Gao, Emily Peterson, John Trezza, Fei Fang
+<br>
+IAAI-20: 32nd Annual Conference on Innovative Applications of Artificial Intelligence
+<br>
+<a id="abs-iaai20sed-button" onclick="absCHF('abs-iaai20sed')">[Abstract]</a>[[IAAI version]](https://aaai.org/ojs/index.php/AAAI/article/view/7050)[[full version]](https://arxiv.org/abs/1901.00586)[<b><font color="#B03A2E">[Software @Chrome Web Store]</font></b>](http://bit.ly/CyberTWEAK)
+<div id="abs-iaai20sed" style="display:none;">
+<blockquote>Cyber adversaries have increasingly leveraged social engineering attacks to breach large organizations and threaten the well-being of today's online users. One clever technique, the "watering hole" attack, compromises a legitimate website to execute drive-by download attacks by redirecting users to another malicious domain. We introduce a game-theoretic model that captures the salient aspects for an organization protecting itself from a watering hole attack by altering the environment information in web traffic so as to deceive the attackers. Our main contributions are (1) a novel Social Engineering Deception (SED) game model that features a continuous action set for the attacker, (2) an in-depth analysis of the SED model to identify computationally feasible real-world cases, and (3) the CyberTWEAK algorithm which solves for the optimal protection policy. To illustrate the potential use of our framework, we built a browser extension based on our algorithms which is now publicly available online. The CyberTWEAK extension will be vital to the continued development and deployment of countermeasures for social engineering.</blockquote>
+</div>
 
+**Learning and Planning in the Feature Deception Problem**
+<br>
+Zheyuan Ryan Shi, Ariel D. Procaccia, Kevin S. Chan, Sridhar Venkatesan, Noam Ben-Asher, Nandi O. Leslie, Charles Kamhoua, Fei Fang
+<br>
+GameSec-20: the 11th Conference on Decision and Game Theory for Security
+<br>
+<a id="abs-fdg-button" onclick="absCHF('abs-fdg19')">[Abstract]</a>[[full version]](https://arxiv.org/abs/1905.04833)
+<div id="abs-fdg19" style="display:none;">
+<blockquote>Today's high-stakes adversarial interactions feature attackers who constantly breach the ever-improving security measures. Deception mitigates the defender's loss by misleading the attacker to make suboptimal decisions. In order to formally reason about deception, we introduce the feature deception problem (FDP), a domain-independent model and present a learning and planning framework for finding the optimal deception strategy, taking into account the adversary's preferences which are initially unknown to the defender. We make the following contributions. (1) We show that we can uniformly learn the adversary's preferences using data from a modest number of deception strategies. (2) We propose an approximation algorithm for finding the optimal deception strategy given the learned preferences and show that the problem is NP-hard. (3) We perform extensive experiments to validate our methods and results. In addition, we provide a case study of the credit bureau network to illustrate how FDP implements deception on a real-world problem.</blockquote>
+</div>
 
-### Game Theory & Reinforcement Learning for Sustainability
 
 **Approximated Temporal-Induced Neural Self-Play for Finitely Repeated Bayesian Games**
 <br>
@@ -155,33 +158,8 @@ IJCAI-ECAI-18: the 27th International Joint Conference on Artificial Intelligenc
 </div>
 
 
-### Machine Learning & Game Theory for Cyber Security
-
-**Learning and Planning in the Feature Deception Problem**
-<br>
-Zheyuan Ryan Shi, Ariel D. Procaccia, Kevin S. Chan, Sridhar Venkatesan, Noam Ben-Asher, Nandi O. Leslie, Charles Kamhoua, Fei Fang
-<br>
-GameSec-20: the 11th Conference on Decision and Game Theory for Security
-<br>
-<a id="abs-fdg-button" onclick="absCHF('abs-fdg19')">[Abstract]</a>[[full version]](https://arxiv.org/abs/1905.04833)
-<div id="abs-fdg19" style="display:none;">
-<blockquote>Today's high-stakes adversarial interactions feature attackers who constantly breach the ever-improving security measures. Deception mitigates the defender's loss by misleading the attacker to make suboptimal decisions. In order to formally reason about deception, we introduce the feature deception problem (FDP), a domain-independent model and present a learning and planning framework for finding the optimal deception strategy, taking into account the adversary's preferences which are initially unknown to the defender. We make the following contributions. (1) We show that we can uniformly learn the adversary's preferences using data from a modest number of deception strategies. (2) We propose an approximation algorithm for finding the optimal deception strategy given the learned preferences and show that the problem is NP-hard. (3) We perform extensive experiments to validate our methods and results. In addition, we provide a case study of the credit bureau network to illustrate how FDP implements deception on a real-world problem.</blockquote>
-</div>
 
 
-**Draining the Water Hole: Mitigating Social Engineering Attacks with CyberTWEAK**
-<br>
-Zheyuan Ryan Shi, Aaron Schlenker, Brian Hay, Daniel Bittleston, Siyu Gao, Emily Peterson, John Trezza, Fei Fang
-<br>
-IAAI-20: 32nd Annual Conference on Innovative Applications of Artificial Intelligence
-<br>
-<a id="abs-iaai20sed-button" onclick="absCHF('abs-iaai20sed')">[Abstract]</a>[[IAAI version]](https://aaai.org/ojs/index.php/AAAI/article/view/7050)[[full version]](https://arxiv.org/abs/1901.00586)[<b><font color="#B03A2E">[Software @Chrome Web Store]</font></b>](http://bit.ly/CyberTWEAK)
-<div id="abs-iaai20sed" style="display:none;">
-<blockquote>Cyber adversaries have increasingly leveraged social engineering attacks to breach large organizations and threaten the well-being of today's online users. One clever technique, the "watering hole" attack, compromises a legitimate website to execute drive-by download attacks by redirecting users to another malicious domain. We introduce a game-theoretic model that captures the salient aspects for an organization protecting itself from a watering hole attack by altering the environment information in web traffic so as to deceive the attackers. Our main contributions are (1) a novel Social Engineering Deception (SED) game model that features a continuous action set for the attacker, (2) an in-depth analysis of the SED model to identify computationally feasible real-world cases, and (3) the CyberTWEAK algorithm which solves for the optimal protection policy. To illustrate the potential use of our framework, we built a browser extension based on our algorithms which is now publicly available online. The CyberTWEAK extension will be vital to the continued development and deployment of countermeasures for social engineering.</blockquote>
-</div>
-
-
-### Miscellaneous
 
 **Optimizing Peer Teaching to Enhance Team Performance**
 <br>
