@@ -15,13 +15,13 @@ redirect_from:
 <img class="profile-picture" src="assets/ryan.jpg">
 
 
-I (try to) research, develop, deploy, and evaluate AI for social good. [[CV]](assets/RS_CV_web.pdf)
+I (try to) research, develop, deploy, and evaluate <del>AI for social good</del> AI that helps people. [[CV]](assets/RS_CV_web.pdf)
 
 My technical research lies in online learning, game theory, and reinforcement learning.
 
-I just want to do useful stuff. [Fei Fang](https://feifang.info/) makes this possible.
+I want to do useful stuff. [Fei Fang](https://feifang.info/) makes this possible.
 
-[<b><font color="#B03A2E">2021 Symposium on AI and Social Good</font></b>](http://aiandsocialgood.org/aisoc21), April 30, 2021.
+[<b><font color="#B03A2E">2021 Symposium on AI for Social Good, April 30, 2021.</font></b>](http://aiandsocialgood.org/aisoc21)
 
 <script>
 function absCHF(Id) {
@@ -34,13 +34,20 @@ function absCHF(Id) {
 }
 </script>
 
+**Goodbye AI for Social Good, Hello World**
+<br>
+Zheyuan Ryan Shi
+<br>
+Working paper, 2021.
+<br>
+My "non-technical" PhD thesis.
 
 
 **Bandit Data-driven Optimization: AI for Social Good and Beyond**
 <br>
 Zheyuan Ryan Shi, Zhiwei Steven Wu, Rayid Ghani, Fei Fang
 <br>
-Working paper, 2020.
+Working paper, 2021.
 <br>
 NeurIPS-20 workshop: Machine Learning for Economic Policy
 <br>
@@ -53,29 +60,6 @@ NeurIPS-20 workshop: Machine Learning for the Developing World
 <blockquote>The use of machine learning (ML) systems in real-world applications entails more than just a prediction algorithm. AI for social good applications, and many real-world ML tasks in general, feature an iterative process which joins prediction, optimization, and data acquisition happen in a loop. We introduce bandit data-driven optimization, the first iterative prediction-prescription framework to formally analyze this practical routine. Bandit data-driven optimization combines the advantages of online bandit learning and offline predictive analytics in an integrated framework. It offers a flexible setup to reason about unmodeled policy objectives and unforeseen consequences. We propose PROOF, the first algorithm for this framework and show that it achieves no-regret. Using numerical simulations, we show that PROOF achieves superior performance over existing baseline.</blockquote>
 </div>
 
-**AI for Social Good: Between My Research and the Real World**
-<br>
-Zheyuan Ryan Shi
-<br>
-AAAI-21: the 35th AAAI Conference on Artificial Intelligence, Doctoral Consortium.
-<br>
-<a id="abs-aaaidc-button" onclick="absCHF('abs-aaaidc')">[Abstract]</a>[*Sister version* AI for Social Good: a Tale of Two Fantasy Worlds TBA]
-<div id="abs-aaaidc" style="display:none;">
-<blockquote>AI for social good (AI4SG) is a research theme that aims to use and advance AI to improve the well-being of society. My work on AI4SG builds a two-way bridge between the research world and the real world. Using my unique experience in food waste and security, I propose applied AI4SG research that directly addresses real-world challenges which have received little attention from the community. Drawing from my experience in various AI4SG application domains, I propose bandit data-driven optimization, the first iterative prediction-prescription framework and a no-regret algorithm PROOF. I will apply PROOF back to my applied work on AI4SG, thereby closing the loop in a single framework.</blockquote>
-</div>
-
-**Artificial Intelligence for Social Good: A Survey**
-<br>
-Zheyuan Ryan Shi, Claire Wang, Fei Fang
-<br>
-Working paper, 2020.
-<br>
-<a id="abs-ai4sg-button" onclick="absCHF('abs-ai4sg')">[Abstract]</a>[[Initial version]](https://arxiv.org/abs/2001.01818)[<b><font color="#B03A2E">[2020 Symposium on AI and Social Good @CMU]</font></b>](http://aiandsocialgood.org/aisoc20)
-<div id="abs-ai4sg" style="display:none;">
-<blockquote>Artificial intelligence for social good (AI4SG) is a research theme that aims to use and advance artificial intelligence to address societal issues and improve the well-being of the world. AI4SG has received lots of attention from the research community in the past decade with several successful applications. Building on the most comprehensive collection of the AI4SG literature to date with over 1000 contributed papers, we provide a detailed account and analysis of the work under the theme in the following ways. (1) We quantitatively analyze the distribution and trend of the AI4SG literature in terms of application domains and AI techniques used. (2) We propose three conceptual methods to systematically group the existing literature and analyze the eight AI4SG application domains in a unified framework. (3) We distill five research topics that represent the common challenges in AI4SG across various application domains. (4) We discuss five issues that, we hope, can shed light on the future development of the AI4SG research.</blockquote>
-</div>
-
-
 
 **A Recommender System for Crowdsourcing Food Rescue Platforms**
 <br>
@@ -87,6 +71,18 @@ WWW-21: 30th The Web Conference
 <div id="abs-frrecsys" style="display:none;">
 <blockquote>The challenges of food waste and insecurity arise in wealthy and developing nations alike, impacting millions of livelihoods. The ongoing pandemic only exacerbates the problem. A major force to combat food waste and insecurity, food rescue (FR) organizations match food donations to the non-profits that serve low-resource communities. Since they rely on external volunteers to pick up and deliver the food, some FRs use web-based mobile applications to reach the right set of volunteers. In this paper, we propose the first machine learning based model to improve volunteer engagement in the food waste and security domain. We (1) develop a recommender system to send push notifications to the most likely volunteers for each given rescue, (2) leverage a mathematical programming based approach to diversify our recommendations, and (3) propose an online algorithm to dynamically select the volunteers to notify without the knowledge of future rescues. Our recommendation system improves the hit ratio from 44% achieved by the previous method to 73%. A pilot study of our method is scheduled to take place in the near future.</blockquote>
 </div>
+
+**AI for Social Good: Between My Research and the Real World**
+<br>
+Zheyuan Ryan Shi
+<br>
+AAAI-21: the 35th AAAI Conference on Artificial Intelligence, Doctoral Consortium.
+<br>
+<a id="abs-aaaidc-button" onclick="absCHF('abs-aaaidc')">[Abstract]</a>[Paper TBA]
+<div id="abs-aaaidc" style="display:none;">
+<blockquote>AI for social good (AI4SG) is a research theme that aims to use and advance AI to improve the well-being of society. My work on AI4SG builds a two-way bridge between the research world and the real world. Using my unique experience in food waste and security, I propose applied AI4SG research that directly addresses real-world challenges which have received little attention from the community. Drawing from my experience in various AI4SG application domains, I propose bandit data-driven optimization, the first iterative prediction-prescription framework and a no-regret algorithm PROOF. I will apply PROOF back to my applied work on AI4SG, thereby closing the loop in a single framework.</blockquote>
+</div>
+
 
 **Improving Efficiency of Volunteer-Based Food Rescue Operations**
 <br>
@@ -120,6 +116,17 @@ GameSec-20: the 11th Conference on Decision and Game Theory for Security
 <a id="abs-fdg-button" onclick="absCHF('abs-fdg19')">[Abstract]</a>[[full version]](https://arxiv.org/abs/1905.04833)
 <div id="abs-fdg19" style="display:none;">
 <blockquote>Today's high-stakes adversarial interactions feature attackers who constantly breach the ever-improving security measures. Deception mitigates the defender's loss by misleading the attacker to make suboptimal decisions. In order to formally reason about deception, we introduce the feature deception problem (FDP), a domain-independent model and present a learning and planning framework for finding the optimal deception strategy, taking into account the adversary's preferences which are initially unknown to the defender. We make the following contributions. (1) We show that we can uniformly learn the adversary's preferences using data from a modest number of deception strategies. (2) We propose an approximation algorithm for finding the optimal deception strategy given the learned preferences and show that the problem is NP-hard. (3) We perform extensive experiments to validate our methods and results. In addition, we provide a case study of the credit bureau network to illustrate how FDP implements deception on a real-world problem.</blockquote>
+</div>
+
+**Artificial Intelligence for Social Good: A Survey**
+<br>
+Zheyuan Ryan Shi, Claire Wang, Fei Fang
+<br>
+Working paper, 2020.
+<br>
+<a id="abs-ai4sg-button" onclick="absCHF('abs-ai4sg')">[Abstract]</a>[[Initial version]](https://arxiv.org/abs/2001.01818)[<b><font color="#B03A2E">[2020 Symposium on AI for Social Good]</font></b>](http://aiandsocialgood.org/aisoc20)
+<div id="abs-ai4sg" style="display:none;">
+<blockquote>Artificial intelligence for social good (AI4SG) is a research theme that aims to use and advance artificial intelligence to address societal issues and improve the well-being of the world. AI4SG has received lots of attention from the research community in the past decade with several successful applications. Building on the most comprehensive collection of the AI4SG literature to date with over 1000 contributed papers, we provide a detailed account and analysis of the work under the theme in the following ways. (1) We quantitatively analyze the distribution and trend of the AI4SG literature in terms of application domains and AI techniques used. (2) We propose three conceptual methods to systematically group the existing literature and analyze the eight AI4SG application domains in a unified framework. (3) We distill five research topics that represent the common challenges in AI4SG across various application domains. (4) We discuss five issues that, we hope, can shed light on the future development of the AI4SG research.</blockquote>
 </div>
 
 
