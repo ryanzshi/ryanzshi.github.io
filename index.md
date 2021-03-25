@@ -34,13 +34,13 @@ function absCHF(Id) {
 }
 </script>
 
-**Goodbye AI for Social Good, Hello World**
+**The Unbearable Weight, and Lightness, of AI for Social Good**
 <br>
 Zheyuan Ryan Shi
 <br>
 Working paper, 2021.
 <br>
-My "non-technical" PhD thesis.
+My "non-technical" PhD thesis. 
 
 
 **Bandit Data-driven Optimization: AI for Social Good and Beyond**
