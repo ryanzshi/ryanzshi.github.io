@@ -15,13 +15,13 @@ redirect_from:
 <img class="profile-picture" src="assets/ryan.jpg">
 
 
-I (try to) research, develop, deploy, and evaluate <del>AI for social good</del> AI that helps people. [[CV]](assets/RS_CV_web.pdf)
+I research AI that helps people. [[CV]](assets/RS_CV_web.pdf)
 
 My technical research lies in online learning, game theory, and reinforcement learning.
 
-I want to do useful stuff. [Fei Fang](https://feifang.info/) makes this possible.
+I don't like buzzwords. I want to do useful stuff. [Fei Fang](https://feifang.info/) makes this possible.
 
-[<b><font color="#B03A2E">2021 Symposium on AI for Social Good, April 30, 2021.</font></b>](http://aiandsocialgood.org/aisoc21)
+<!-- [<b><font color="#B03A2E">2021 Symposium on AI for Social Good, April 30, 2021.</font></b>](http://aiandsocialgood.org/aisoc21) -->
 
 <script>
 function absCHF(Id) {
