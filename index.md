@@ -41,6 +41,8 @@ Zheyuan Ryan Shi
 Working paper, 2021.
 <br>
 My "non-technical" PhD thesis. 
+<br>
+[<b><font color="#B03A2E">[2021 Symposium on AI for Social Good]</font></b>](http://aiandsocialgood.org/aisoc21)
 
 
 **Bandit Data-driven Optimization: AI for Social Good and Beyond**
