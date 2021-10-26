@@ -15,7 +15,7 @@ redirect_from:
 <img class="profile-picture" src="assets/ryan.jpg">
 
 
-I research AI that helps people. [[CV]](assets/RS_CV_web.pdf)
+I research AI for the nonprofit sector. [[CV]](assets/RS_CV_web.pdf)
 
 My technical research lies in online learning, game theory, and reinforcement learning.
 
@@ -40,7 +40,7 @@ Zheyuan Ryan Shi
 <br>
 Working paper, 2021.
 <br>
-My "non-technical" PhD thesis. 
+My "non-technical" PhD thesis.
 <br>
 [<b><font color="#B03A2E">[2021 Symposium on AI for Social Good]</font></b>](http://aiandsocialgood.org/aisoc21)
 
