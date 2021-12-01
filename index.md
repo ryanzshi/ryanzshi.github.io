@@ -49,13 +49,7 @@ My "non-technical" PhD thesis.
 <br>
 Zheyuan Ryan Shi, Zhiwei Steven Wu, Rayid Ghani, Fei Fang
 <br>
-Working paper, 2021.
-<br>
-NeurIPS-20 workshop: Machine Learning for Economic Policy
-<br>
-NeurIPS-20 workshop: Consequential Decisions in Dynamic Environments
-<br>
-NeurIPS-20 workshop: Machine Learning for the Developing World
+AAAI-22: the 36th AAAI Conference on Artificial Intelligence
 <br>
 <a id="abs-bandit-button" onclick="absCHF('abs-bandit')">[Abstract]</a>[[Initial version]](https://arxiv.org/abs/2008.11707)
 <div id="abs-bandit" style="display:none;">
