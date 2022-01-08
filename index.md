@@ -15,7 +15,7 @@ redirect_from:
 <img class="profile-picture" src="assets/ryan.jpg">
 
 
-I research AI for the nonprofit sector. [[CV]](assets/RS_CV_web.pdf)
+I research AI for nonprofits at Carnegie Mellon University and [98Connect](https://www.98connect.org/). [[CV]](assets/RS_CV_web.pdf)
 
 My technical research lies in online learning, game theory, and reinforcement learning.
 
@@ -45,7 +45,7 @@ My "non-technical" PhD thesis.
 [<b><font color="#B03A2E">[2021 Symposium on AI for Social Good]</font></b>](http://aiandsocialgood.org/aisoc21)
 
 
-**Bandit Data-driven Optimization: AI for Social Good and Beyond**
+**Bandit Data-driven Optimization**
 <br>
 Zheyuan Ryan Shi, Zhiwei Steven Wu, Rayid Ghani, Fei Fang
 <br>
@@ -62,7 +62,7 @@ Alison Hau, Fei Fang, Zheyuan Ryan Shi
 <br>
 COMPASS-21: the 4th ACM SIGCAS Conference on Computing and Sustainable Societies, Poster
 <br>
-<a id="abs-fbcompass-button" onclick="absCHF('abs-fbcompass')">[Abstract]</a>[Paper TBA]
+<a id="abs-fbcompass-button" onclick="absCHF('abs-fbcompass')">[Abstract]</a>[[COMPASS version]](https://dl.acm.org/doi/abs/10.1145/3460112.3471978)
 <div id="abs-fbcompass" style="display:none;">
 <blockquote>Food banks provide communities and organizations with food for those in need. One challenge they face is properly estimating the resources needed to fulfill orders. Estimating the number of shipping pallets needed for each order is an important step in allocating these resources, and coupled with limited data, provides a challenging mental task which the food bank staff grapple with on a daily basis. We provide an algorithm to estimate the number of pallets needed for an order based on the quantity of products, the known products-per-tier, and tiers-per-pallet values, as well as a scheme for testing this algorithm with limited data from the food bank. The algorithm aids in resource allocation by reducing uncertainty in the number of pallets needed.</blockquote>
 </div>
