@@ -45,7 +45,7 @@ My "non-technical" PhD thesis.
 [<b><font color="#B03A2E">[2021 Symposium on AI for Social Good]</font></b>](http://aiandsocialgood.org/aisoc21)
 
 
-**Bandit Data-driven Optimization**
+**Bandit Data-Driven Optimization**
 <br>
 Zheyuan Ryan Shi, Zhiwei Steven Wu, Rayid Ghani, Fei Fang
 <br>
