@@ -483,10 +483,10 @@ code.html span.doctype{
 .profile-picture{
     border-radius:5px;
     max-width:100%;
-    height:200px;
-    width:200px;
+    height:100%;
+    width:18%;
     position:relative;
-    margin:-10px 0 0 15px;
+    margin:-10px 0 100% 15px;
     float:right
 }
 .fa.fa-pull-left,.fa.pull-left{

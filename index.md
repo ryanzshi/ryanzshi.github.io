@@ -15,13 +15,13 @@ redirect_from:
 <img class="profile-picture" src="assets/ryan.jpg">
 
 
-I research AI for nonprofits at Carnegie Mellon University and [98Connect](https://www.98connect.org/). [[CV]](assets/RS_CV_web.pdf)
+
+I research AI for nonprofits at Carnegie Mellon University and [98Connect](https://www.98connect.org/).
 
 My technical research lies in online learning, game theory, and reinforcement learning.
 
 I don't like buzzwords. I want to do useful stuff. [Fei Fang](https://feifang.info/) makes this possible.
 
-<!-- [<b><font color="#B03A2E">2021 Symposium on AI for Social Good, April 30, 2021.</font></b>](http://aiandsocialgood.org/aisoc21) -->
 
 <script>
 function absCHF(Id) {
@@ -33,6 +33,15 @@ function absCHF(Id) {
     }
 }
 </script>
+
+<a id="bio-button" onclick="absCHF('abs-bio')">[Bio]</a> [[CV]](assets/RS_CV_web.pdf)
+<div id="abs-bio" style="display:none;">
+<blockquote>
+Ryan Shi is a PhD candidate of Societal Computing in the School of Computer Science at CMU and founder of 98Connect. He works with nonprofit organizations to address societal challenges in food security, wildlife conservation, and public health using AI. Some of his work has been deployed. Shi studies game theory, online learning, and reinforcement learning on problems motivated by non-profit applications. He organized the AI for Social Good Symposia in 2020 and 2021. He is the recipient of a Siebel Scholarship and a Carnegie Mellon Presidential Fellowship. Shi grew up in Henan, China before moving to the US, where he graduated from Swarthmore College with a B.A. in mathematics and computer science.
+</blockquote>
+</div>
+
+---
 
 **The Unbearable Weight, and Lightness, of AI for Social Good**
 <br>
