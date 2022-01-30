@@ -18,9 +18,7 @@ redirect_from:
 
 I research AI for nonprofits at Carnegie Mellon University and [98Connect](https://www.98connect.org/).
 
-My technical research lies in online learning, game theory, and reinforcement learning.
-
-I don't like buzzwords. I want to do useful stuff. [Fei Fang](https://feifang.info/) makes this possible.
+I don't like buzzwords. I try to do useful stuff. [Fei Fang](https://feifang.info/) makes this possible.
 
 
 <script>
@@ -34,10 +32,22 @@ function absCHF(Id) {
 }
 </script>
 
-<a id="bio-button" onclick="absCHF('abs-bio')">[Bio]</a> [[CV]](assets/RS_CV_web.pdf)
+<a id="bio-button" onclick="absCHF('abs-bio')">[Bio]</a> 
+<a id="research-button" onclick="absCHF('abs-research')">[What is your research, really?]</a> 
+[[CV]](assets/Ryan_Shi_CV.pdf)
 <div id="abs-bio" style="display:none;">
 <blockquote>
-Ryan Shi is a PhD candidate of Societal Computing in the School of Computer Science at CMU and founder of 98Connect. He works with nonprofit organizations to address societal challenges in food security, wildlife conservation, and public health using AI. Some of his work has been deployed. Shi studies game theory, online learning, and reinforcement learning on problems motivated by non-profit applications. He organized the AI for Social Good Symposia in 2020 and 2021. He is the recipient of a Siebel Scholarship and a Carnegie Mellon Presidential Fellowship. Shi grew up in Henan, China before moving to the US, where he graduated from Swarthmore College with a B.A. in mathematics and computer science.
+<b>Bio:</b> Ryan Shi is a Ph.D. candidate of Societal Computing in the School of Computer Science at CMU and founder of 98Connect. He works with nonprofit organizations to address societal challenges in food security, wildlife conservation, and public health using AI. Some of his work has been deployed. Shi studies game theory, online learning, and reinforcement learning on problems motivated by non-profit applications. He organized the AI for Social Good Symposia in 2020 and 2021. He is the recipient of a Siebel Scholarship and a Carnegie Mellon Presidential Fellowship. Shi grew up in Henan, China before moving to the U.S., where he graduated from Swarthmore College with a B.A. in mathematics and computer science.
+</blockquote>
+</div>
+
+<div id="abs-research" style="display:none;">
+<blockquote>
+<b>What is your research, really?</b><br>
+<br>
+I am proud to be a generalist. I study game theory, online learning, recommender systems, reinforcement learning, and even NLP and HCI. My nonprofit partners' needs and the possibility of real-world deployment dictate what I study and what tools I use. Real collaboration happens when the grand research agenda is left off the table. <br>
+<br>
+I am proud to be a specialist. I specialize in AI for nonprofits. Working with nonprofits gives me the unique insight into their pain points. Such first-hand experience fuels many <a href="https://arxiv.org/abs/2008.11707">technical AI research questions</a> to address those pain points. Furthermore, AI for nonprofits will have its own set of research questions, concerning all stages of a project from problem formulation to deployment. I work on these questions so that we can build more robust bridges between nonprofits and technology teams in the future.
 </blockquote>
 </div>
 
@@ -47,7 +57,7 @@ Ryan Shi is a PhD candidate of Societal Computing in the School of Computer Scie
 <br>
 Zheyuan Ryan Shi
 <br>
-Working paper, 2021.
+Working paper, 2022.
 <br>
 My "non-technical" PhD thesis.
 <br>
