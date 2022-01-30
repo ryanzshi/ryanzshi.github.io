@@ -33,7 +33,7 @@ function absCHF(Id) {
 </script>
 
 <a id="bio-button" onclick="absCHF('abs-bio')">[Bio]</a> 
-<a id="research-button" onclick="absCHF('abs-research')">[What is your research, really?]</a> 
+<a id="research-button" onclick="absCHF('abs-research')">[What is your research, exactly?]</a> 
 [[CV]](assets/Ryan_Shi_CV.pdf)
 <div id="abs-bio" style="display:none;">
 <blockquote>
