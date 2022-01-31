@@ -43,7 +43,7 @@ function absCHF(Id) {
 
 <div id="abs-research" style="display:none;">
 <blockquote>
-<b>What is your research, really?</b><br>
+<b>What is your research, exactly?</b><br>
 <br>
 I am proud to be a generalist. I study game theory, online learning, recommender systems, reinforcement learning, and even NLP and HCI. My nonprofit partners' needs and the possibility of real-world deployment dictate what I study and what tools I use. Real collaboration happens when the grand research agenda is left off the table. <br>
 <br>
