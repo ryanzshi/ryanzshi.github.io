@@ -65,17 +65,6 @@ AAAI-22: the 36th AAAI Conference on Artificial Intelligence
 <blockquote>The use of machine learning (ML) systems in real-world applications entails more than just a prediction algorithm. AI for social good applications, and many real-world ML tasks in general, feature an iterative process which joins prediction, optimization, and data acquisition happen in a loop. We introduce bandit data-driven optimization, the first iterative prediction-prescription framework to formally analyze this practical routine. Bandit data-driven optimization combines the advantages of online bandit learning and offline predictive analytics in an integrated framework. It offers a flexible setup to reason about unmodeled policy objectives and unforeseen consequences. We propose PROOF, the first algorithm for this framework and show that it achieves no-regret. Using numerical simulations, we show that PROOF achieves superior performance over existing baseline.</blockquote>
 </div>
 
-**Pallet Estimation for Food Bank Logistics Management**
-<br>
-Alison Hau, Fei Fang, Zheyuan Ryan Shi
-<br>
-COMPASS-21: the 4th ACM SIGCAS Conference on Computing and Sustainable Societies, Poster
-<br>
-<a id="abs-fbcompass-button" onclick="absCHF('abs-fbcompass')" style="cursor:pointer;">[Abstract]</a>[[COMPASS version]](https://dl.acm.org/doi/abs/10.1145/3460112.3471978)
-<div id="abs-fbcompass" style="display:none;">
-<blockquote>Food banks provide communities and organizations with food for those in need. One challenge they face is properly estimating the resources needed to fulfill orders. Estimating the number of shipping pallets needed for each order is an important step in allocating these resources, and coupled with limited data, provides a challenging mental task which the food bank staff grapple with on a daily basis. We provide an algorithm to estimate the number of pallets needed for an order based on the quantity of products, the known products-per-tier, and tiers-per-pallet values, as well as a scheme for testing this algorithm with limited data from the food bank. The algorithm aids in resource allocation by reducing uncertainty in the number of pallets needed.</blockquote>
-</div>
-
 
 **A Recommender System for Crowdsourcing Food Rescue Platforms**
 <br>
@@ -86,17 +75,6 @@ WWW-21: 30th The Web Conference
 <a id="abs-frrecsys-button" onclick="absCHF('abs-frrecsys')" style="cursor:pointer;">[Abstract]</a>[[WWW version]](https://dl.acm.org/doi/abs/10.1145/3442381.3449787)
 <div id="abs-frrecsys" style="display:none;">
 <blockquote>The challenges of food waste and insecurity arise in wealthy and developing nations alike, impacting millions of livelihoods. The ongoing pandemic only exacerbates the problem. A major force to combat food waste and insecurity, food rescue (FR) organizations match food donations to the non-profits that serve low-resource communities. Since they rely on external volunteers to pick up and deliver the food, some FRs use web-based mobile applications to reach the right set of volunteers. In this paper, we propose the first machine learning based model to improve volunteer engagement in the food waste and security domain. We (1) develop a recommender system to send push notifications to the most likely volunteers for each given rescue, (2) leverage a mathematical programming based approach to diversify our recommendations, and (3) propose an online algorithm to dynamically select the volunteers to notify without the knowledge of future rescues. Our recommendation system improves the hit ratio from 44% achieved by the previous method to 73%. A pilot study of our method is scheduled to take place in the near future.</blockquote>
-</div>
-
-**AI for Social Good: Between My Research and the Real World**
-<br>
-Zheyuan Ryan Shi
-<br>
-AAAI-21: the 35th AAAI Conference on Artificial Intelligence, Doctoral Consortium.
-<br>
-<a id="abs-aaaidc-button" onclick="absCHF('abs-aaaidc')" style="cursor:pointer;">[Abstract]</a>[[AAAI version]](https://ojs.aaai.org/index.php/AAAI/article/view/17863)
-<div id="abs-aaaidc" style="display:none;">
-<blockquote>AI for social good (AI4SG) is a research theme that aims to use and advance AI to improve the well-being of society. My work on AI4SG builds a two-way bridge between the research world and the real world. Using my unique experience in food waste and security, I propose applied AI4SG research that directly addresses real-world challenges which have received little attention from the community. Drawing from my experience in various AI4SG application domains, I propose bandit data-driven optimization, the first iterative prediction-prescription framework and a no-regret algorithm PROOF. I will apply PROOF back to my applied work on AI4SG, thereby closing the loop in a single framework.</blockquote>
 </div>
 
 
@@ -113,6 +91,45 @@ IAAI-20: 32nd Annual Conference on Innovative Applications of Artificial Intelli
 <blockquote>Food waste and food insecurity are two challenges that coexist in many communities. To mitigate the problem, food
 rescue platforms match excess food with the communities in need, and leverage external volunteers to transport the food. However, the external volunteers bring significant uncertainty to the food rescue operation. We work with a large food rescue organization to predict the uncertainty and furthermore to find ways to reduce the human dispatcher’s workload and the redundant notifications sent to volunteers. We make two main contributions. (1) We train a stacking model which predicts whether a rescue will be claimed with high precision and AUC. This model can help the dispatcher better plan for backup options and alleviate their uncertainty. (2) We develop a data-driven optimization algorithm to compute the optimal intervention and notification scheme. The algorithm uses a novel counterfactual data generation approach and the branch and bound framework. Our result reduces the number of notifications and interventions required in the food rescue operation. We are working with the organization to deploy our results in the near future.</blockquote>
 </div>
+
+
+**Artificial Intelligence for Social Good: A Survey**
+<br>
+Zheyuan Ryan Shi, Claire Wang, Fei Fang
+<br>
+Working paper, 2020.
+<br>
+<a id="abs-ai4sg-button" onclick="absCHF('abs-ai4sg')" style="cursor:pointer;">[Abstract]</a>[[Initial version]](https://arxiv.org/abs/2001.01818)
+<div id="abs-ai4sg" style="display:none;">
+<blockquote>Artificial intelligence for social good (AI4SG) is a research theme that aims to use and advance artificial intelligence to address societal issues and improve the well-being of the world. AI4SG has received lots of attention from the research community in the past decade with several successful applications. Building on the most comprehensive collection of the AI4SG literature to date with over 1000 contributed papers, we provide a detailed account and analysis of the work under the theme in the following ways. (1) We quantitatively analyze the distribution and trend of the AI4SG literature in terms of application domains and AI techniques used. (2) We propose three conceptual methods to systematically group the existing literature and analyze the eight AI4SG application domains in a unified framework. (3) We distill five research topics that represent the common challenges in AI4SG across various application domains. (4) We discuss five issues that, we hope, can shed light on the future development of the AI4SG research.</blockquote>
+</div>
+
+
+---
+
+**Pallet Estimation for Food Bank Logistics Management**
+<br>
+Alison Hau, Fei Fang, Zheyuan Ryan Shi
+<br>
+COMPASS-21: the 4th ACM SIGCAS Conference on Computing and Sustainable Societies, Poster
+<br>
+<a id="abs-fbcompass-button" onclick="absCHF('abs-fbcompass')" style="cursor:pointer;">[Abstract]</a>[[COMPASS version]](https://dl.acm.org/doi/abs/10.1145/3460112.3471978)
+<div id="abs-fbcompass" style="display:none;">
+<blockquote>Food banks provide communities and organizations with food for those in need. One challenge they face is properly estimating the resources needed to fulfill orders. Estimating the number of shipping pallets needed for each order is an important step in allocating these resources, and coupled with limited data, provides a challenging mental task which the food bank staff grapple with on a daily basis. We provide an algorithm to estimate the number of pallets needed for an order based on the quantity of products, the known products-per-tier, and tiers-per-pallet values, as well as a scheme for testing this algorithm with limited data from the food bank. The algorithm aids in resource allocation by reducing uncertainty in the number of pallets needed.</blockquote>
+</div>
+
+
+**AI for Social Good: Between My Research and the Real World**
+<br>
+Zheyuan Ryan Shi
+<br>
+AAAI-21: the 35th AAAI Conference on Artificial Intelligence, Doctoral Consortium.
+<br>
+<a id="abs-aaaidc-button" onclick="absCHF('abs-aaaidc')" style="cursor:pointer;">[Abstract]</a>[[AAAI version]](https://ojs.aaai.org/index.php/AAAI/article/view/17863)
+<div id="abs-aaaidc" style="display:none;">
+<blockquote>AI for social good (AI4SG) is a research theme that aims to use and advance AI to improve the well-being of society. My work on AI4SG builds a two-way bridge between the research world and the real world. Using my unique experience in food waste and security, I propose applied AI4SG research that directly addresses real-world challenges which have received little attention from the community. Drawing from my experience in various AI4SG application domains, I propose bandit data-driven optimization, the first iterative prediction-prescription framework and a no-regret algorithm PROOF. I will apply PROOF back to my applied work on AI4SG, thereby closing the loop in a single framework.</blockquote>
+</div>
+
 
 **Draining the Water Hole: Mitigating Social Engineering Attacks with CyberTWEAK**
 <br>
@@ -136,17 +153,6 @@ GameSec-20: the 11th Conference on Decision and Game Theory for Security
 <a id="abs-fdg-button" onclick="absCHF('abs-fdg19')" style="cursor:pointer;">[Abstract]</a>[[full version]](https://arxiv.org/abs/1905.04833)
 <div id="abs-fdg19" style="display:none;">
 <blockquote>Today's high-stakes adversarial interactions feature attackers who constantly breach the ever-improving security measures. Deception mitigates the defender's loss by misleading the attacker to make suboptimal decisions. In order to formally reason about deception, we introduce the feature deception problem (FDP), a domain-independent model and present a learning and planning framework for finding the optimal deception strategy, taking into account the adversary's preferences which are initially unknown to the defender. We make the following contributions. (1) We show that we can uniformly learn the adversary's preferences using data from a modest number of deception strategies. (2) We propose an approximation algorithm for finding the optimal deception strategy given the learned preferences and show that the problem is NP-hard. (3) We perform extensive experiments to validate our methods and results. In addition, we provide a case study of the credit bureau network to illustrate how FDP implements deception on a real-world problem.</blockquote>
-</div>
-
-**Artificial Intelligence for Social Good: A Survey**
-<br>
-Zheyuan Ryan Shi, Claire Wang, Fei Fang
-<br>
-Working paper, 2020.
-<br>
-<a id="abs-ai4sg-button" onclick="absCHF('abs-ai4sg')" style="cursor:pointer;">[Abstract]</a>[[Initial version]](https://arxiv.org/abs/2001.01818)
-<div id="abs-ai4sg" style="display:none;">
-<blockquote>Artificial intelligence for social good (AI4SG) is a research theme that aims to use and advance artificial intelligence to address societal issues and improve the well-being of the world. AI4SG has received lots of attention from the research community in the past decade with several successful applications. Building on the most comprehensive collection of the AI4SG literature to date with over 1000 contributed papers, we provide a detailed account and analysis of the work under the theme in the following ways. (1) We quantitatively analyze the distribution and trend of the AI4SG literature in terms of application domains and AI techniques used. (2) We propose three conceptual methods to systematically group the existing literature and analyze the eight AI4SG application domains in a unified framework. (3) We distill five research topics that represent the common challenges in AI4SG across various application domains. (4) We discuss five issues that, we hope, can shed light on the future development of the AI4SG research.</blockquote>
 </div>
 
 
