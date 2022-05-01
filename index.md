@@ -219,7 +219,6 @@ URTC-16: 2016 MIT IEEE Undergraduate Research Technology Conference
 
 
 <footer>
-Sorry, I don't use Twitter. Everything is on this website.
-  
+<p><small>Sorry, I don't use Twitter. Everything is on this website.</small></p>
 <p><small>Copyright 2016 - {{site.time | date:"%Y"}} by Zheyuan Ryan Shi </small></p>
 </footer>
