@@ -18,7 +18,7 @@ redirect_from:
 
 I research AI for nonprofits at Carnegie Mellon University and [98Connect](https://www.98connect.org/).
 
-I don't like buzzwords. I try to do useful stuff. [Fei Fang](https://feifang.info/) makes this possible.
+I try to do useful stuff. I try to make it work. [Fei Fang](https://feifang.info/) makes this possible.
 
 
 <script>
@@ -37,7 +37,7 @@ function absCHF(Id) {
 [[CV]](assets/Ryan_Shi_CV.pdf)
 <div id="abs-bio" style="display:none;">
 <blockquote>
-<b>Bio:</b> Ryan Shi is a Ph.D. candidate of Societal Computing in the School of Computer Science at CMU and founder of 98Connect. He works with nonprofit organizations to address societal challenges in food security, wildlife conservation, and public health using AI. Some of his work has been deployed. Shi studies game theory, online learning, and reinforcement learning on problems motivated by non-profit applications. He organized the AI for Social Good Symposia in 2020 and 2021. He is the recipient of a Siebel Scholarship and a Carnegie Mellon Presidential Fellowship. Shi grew up in Henan, China before moving to the U.S., where he graduated from Swarthmore College with a B.A. in mathematics and computer science.
+<b>Bio:</b> Ryan Shi is a Ph.D. candidate of Societal Computing in the School of Computer Science at CMU and founder of 98Connect. He works with nonprofit organizations to address societal challenges in food security, wildlife conservation, and public health using AI. His research has been deployed at these organizations worldwide. Shi studies game theory, online learning, and reinforcement learning on problems motivated by non-profit applications. He co-organized the AI for Social Good Symposia in 2020-2022. He is the recipient of a Siebel Scholarship, an IEEE Computer Society Upsilon Pi Epsilon Honor Society Scholarship, and a Carnegie Mellon Presidential Fellowship. Shi grew up in Henan, China before moving to the U.S., where he graduated from Swarthmore College with a B.A. in mathematics and computer science.
 </blockquote>
 </div>
 
@@ -219,5 +219,7 @@ URTC-16: 2016 MIT IEEE Undergraduate Research Technology Conference
 
 
 <footer>
+Sorry, I don't use Twitter. Everything is on this website.
+  
 <p><small>Copyright 2016 - {{site.time | date:"%Y"}} by Zheyuan Ryan Shi </small></p>
 </footer>
