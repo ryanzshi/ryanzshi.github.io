@@ -4,6 +4,7 @@ title: Ryan Shi
 redirect_from:
   - /en
   - /en/
+youtubeId: -1YCxEWexL8
 ---
 
 <style>
@@ -34,6 +35,7 @@ function absCHF(Id) {
 
 <a id="bio-button" onclick="absCHF('abs-bio')" style="cursor:pointer;">[Bio]</a> 
 <a id="research-button" onclick="absCHF('abs-research')"  style="cursor:pointer;">[What is your research, exactly?]</a> 
+<a id="talk-button" onclick="absCHF('abs-talk')" style="cursor:pointer;">[Overview Talk]</a> 
 [[CV]](assets/Ryan_Shi_CV.pdf)
 <div id="abs-bio" style="display:none;">
 <blockquote>
@@ -49,6 +51,11 @@ I am proud to be a generalist. I study game theory, online learning, recommender
 <br>
 I am proud to be a specialist. I specialize in AI for nonprofits. Working with nonprofits gives me the unique insight into their pain points. Such first-hand experience fuels many <a href="https://arxiv.org/abs/2008.11707">technical AI research questions</a> to address those pain points. Furthermore, AI for nonprofits will have its own set of research questions, concerning all stages of a project from problem formulation to deployment. I work on these questions so that we can build more robust bridges between nonprofits and technology teams in the future.
 </blockquote>
+</div>
+
+
+<div id="abs-talk" style="display:none;">
+{% include youtubePlayer.html id=page.youtubeId %}
 </div>
 
 ---
