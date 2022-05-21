@@ -21,7 +21,6 @@ I research AI for nonprofits at Carnegie Mellon University and [98Connect](https
 
 I try to do useful stuff. I try to make it work. [Fei Fang](https://feifang.info/) makes this possible.
 
-
 <script>
 function absCHF(Id) {
     var x = document.getElementById(Id);
@@ -59,6 +58,9 @@ I am proud to be a specialist. I specialize in AI for nonprofits. Working with n
 </div>
 
 ---
+Love and time are the only way.
+
+---
 
 **Bandit Data-Driven Optimization**
 <br>
@@ -66,7 +68,9 @@ Zheyuan Ryan Shi, Zhiwei Steven Wu, Rayid Ghani, Fei Fang
 <br>
 AAAI-22: the 36th AAAI Conference on Artificial Intelligence
 <br>
-<a id="abs-bandit-button" onclick="absCHF('abs-bandit')" style="cursor:pointer;">[Abstract]</a>[[full version]](https://arxiv.org/abs/2008.11707)
+<b>To be presented @INFORMS-22</b>
+<br>
+<a id="abs-bandit-button" onclick="absCHF('abs-bandit')" style="cursor:pointer;">[Abstract]</a>[[full version]](https://arxiv.org/abs/2008.11707)[[source code]](https://github.com/AIandSocialGoodLab/bandit-data-driven-optimization)
 <div id="abs-bandit" style="display:none;">
 <blockquote>The use of machine learning (ML) systems in real-world applications entails more than just a prediction algorithm. AI for social good applications, and many real-world ML tasks in general, feature an iterative process which joins prediction, optimization, and data acquisition happen in a loop. We introduce bandit data-driven optimization, the first iterative prediction-prescription framework to formally analyze this practical routine. Bandit data-driven optimization combines the advantages of online bandit learning and offline predictive analytics in an integrated framework. It offers a flexible setup to reason about unmodeled policy objectives and unforeseen consequences. We propose PROOF, the first algorithm for this framework and show that it achieves no-regret. Using numerical simulations, we show that PROOF achieves superior performance over existing baseline.</blockquote>
 </div>
@@ -76,7 +80,9 @@ AAAI-22: the 36th AAAI Conference on Artificial Intelligence
 <br>
 Zheyuan Ryan Shi, Leah Lizarondo, Fei Fang
 <br>
-WWW-21: 30th The Web Conference
+WWW-21: The 30th Web Conference
+<br>
+[<b><font color="#B03A2E">Pilot Study @412 Food Rescue</font></b>](https://412foodrescue.org/)
 <br>
 <a id="abs-frrecsys-button" onclick="absCHF('abs-frrecsys')" style="cursor:pointer;">[Abstract]</a>[[WWW version]](https://dl.acm.org/doi/abs/10.1145/3442381.3449787)
 <div id="abs-frrecsys" style="display:none;">
@@ -90,7 +96,7 @@ Zheyuan Ryan Shi\*, Yiwen Yuan\*, Kimberly Lo, Leah Lizarondo, Fei Fang
 <br>
 IAAI-20: 32nd Annual Conference on Innovative Applications of Artificial Intelligence
 <br>
-[<b><font color="#B03A2E">Deployed @412 Food Rescue</font></b>](https://412foodrescue.org/)
+[<b><font color="#B03A2E">Adopted @412 Food Rescue</font></b>](https://412foodrescue.org/)
 <br>
 <a id="abs-iaai20fr-button" onclick="absCHF('abs-iaai20fr')" style="cursor:pointer;">[Abstract]</a>[[IAAI version]](https://aaai.org/ojs/index.php/AAAI/article/view/7051)
 <div id="abs-iaai20fr" style="display:none;">
@@ -208,7 +214,7 @@ TEAMAS-17: First International Workshop on Teams in Multiagent Systems, at AAMAS
 <br>
 In Autonomous Agents and Multiagent Systems: AAMAS 2017 Workshops, Best Papers, Springer.
 <br>
-<b><font color="#B03A2E">Winner of Best Paper</font></b>
+<b>Winner of Best Paper</b>
 <br>
 <a id="abs-teamas17-button" onclick="absCHF('abs-teamas17')" style="cursor:pointer;">[Abstract]</a>
 [[Springer version]](https://link.springer.com/chapter/10.1007/978-3-319-71682-4_9)
@@ -231,6 +237,9 @@ URTC-16: 2016 MIT IEEE Undergraduate Research Technology Conference
 
 
 <footer>
-<p><small>Sorry, I don't use Twitter. Everything is on this website.</small></p>
-<p><small>Copyright 2016 - {{site.time | date:"%Y"}} by Zheyuan Ryan Shi </small></p>
+<p>
+<small>I don't use Twitter. Everything is on this website.</small>
+<br>
+<small>Copyright 2016 - {{site.time | date:"%Y"}} by Zheyuan Ryan Shi </small>
+</p>
 </footer>
