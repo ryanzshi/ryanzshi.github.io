@@ -58,9 +58,6 @@ I am proud to be a specialist. I specialize in AI for nonprofits. Working with n
 </div>
 
 ---
-Love and time are the only way.
-
----
 
 **Bandit Data-Driven Optimization**
 <br>
@@ -238,6 +235,8 @@ URTC-16: 2016 MIT IEEE Undergraduate Research Technology Conference
 
 <footer>
 <p>
+<small>Love and time are the only way. At the end of the day, they are what we only have.</small>
+<br>
 <small>I don't use Twitter. Everything is on this website.</small>
 <br>
 <small>Copyright 2016 - {{site.time | date:"%Y"}} by Zheyuan Ryan Shi </small>
