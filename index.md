@@ -13,13 +13,27 @@ youtubeId: -1YCxEWexL8
 }
 </style>
 
-<img class="profile-picture" src="assets/ryan.jpg" width="100" height="100">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td width="85%" valign="middle">
+              <p>I research AI for nonprofits, with nonprofits, so that it could be used by nonprofits.
+              </p>
+              <p>
+              <a href="https://feifang.info/">Fei Fang</a> makes this possible.
+              </p>
+              <p>
+              <a id="bio-button" onclick="absCHF('abs-bio')" style="cursor:pointer;">[Bio]</a> 
+              <a id="research-button" onclick="absCHF('abs-research')"  style="cursor:pointer;">[What is your research, exactly?]</a> 
+              <a id="talk-button" onclick="absCHF('abs-talk')" style="cursor:pointer;">[Overview Talk]</a> 
+              <a href="assets/Ryan_Shi_CV.pdf">[CV]</a>
+              </p>
+            </td>
+            <td width="15%">
+              <img src="assets/ryan.jpg">
+            </td>
+          </tr>
+        </tbody></table>
 
-
-
-I research AI for nonprofits.
-
-I try to do useful stuff. I try to make it work. [Fei Fang](https://feifang.info/) makes this possible.
 
 <script>
 function absCHF(Id) {
@@ -32,10 +46,7 @@ function absCHF(Id) {
 }
 </script>
 
-<a id="bio-button" onclick="absCHF('abs-bio')" style="cursor:pointer;">[Bio]</a> 
-<a id="research-button" onclick="absCHF('abs-research')"  style="cursor:pointer;">[What is your research, exactly?]</a> 
-<a id="talk-button" onclick="absCHF('abs-talk')" style="cursor:pointer;">[Overview Talk]</a> 
-[[CV]](assets/Ryan_Shi_CV.pdf)
+
 <div id="abs-bio" style="display:none;">
 <blockquote>
 <b>Bio:</b> Ryan Shi is a Ph.D. candidate of Societal Computing in the School of Computer Science at Carnegie Mellon University and founder of <a href="https://www.98connect.org">98Connect</a>. He works with nonprofit organizations to address societal challenges in food security, wildlife conservation, and public health using AI. His research has been deployed at these organizations worldwide. Shi studies game theory, online learning, and reinforcement learning on problems motivated by non-profit applications. He co-organized the AI for Social Good Symposia in 2020-2022. He is the recipient of a Siebel Scholar award, an IEEE Computer Society Upsilon Pi Epsilon Scholarship, and a Carnegie Mellon Presidential Fellowship. Shi grew up in Henan, China before moving to the U.S., where he graduated from Swarthmore College with a B.A. in mathematics and computer science.
@@ -165,7 +176,7 @@ GameSec-20: the 11th Conference on Decision and Game Theory for Security
 </div>
 
 
-**Approximated Temporal-Induced Neural Self-Play for Finitely Repeated Bayesian Games**
+<!-- **Approximated Temporal-Induced Neural Self-Play for Finitely Repeated Bayesian Games**
 <br>
 Zihan Zhou, Zheyuan Ryan Shi, Yi Wu, Fei Fang
 <br>
@@ -174,7 +185,7 @@ AAAI-20-RLG: AAAI-20 Workshop on Reinforcement Learning in Games
 <a id="abs-pbne-button" onclick="absCHF('abs-pbne20')" style="cursor:pointer;">[Abstract]</a>
 <div id="abs-pbne20" style="display:none;">
 <blockquote>In two-player finitely repeated Bayesian games with one-sided incomplete information, there is a natural information asymmetry among the players. In each round of the game, the player with information disadvantage needs to infer the other player’s type from their actions. The other player, knowing that their actions reveal information about themselves, will balance between playing myopically and maintaining information advantage to maximize their accumulated payoff in the long-run, which can lead to deceptive actions. Computing the Perfect Bayesian Nash Equilibrium (PBNE) in such games can be computationally intractable for large games. In this paper, we propose a new learning-based framework to approximate PBNEs, which uses non-parametric approximation and reinforcement learning from self-play. Our initial results show that it can improve the scalability over existing methods and lead to strategy profiles that are close to PBNEs.</blockquote>
-</div>
+</div> -->
 
 **Deep Reinforcement Learning for Green Security Games with Real-Time Information**
 <br>
