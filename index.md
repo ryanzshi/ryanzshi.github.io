@@ -90,7 +90,7 @@ Zheyuan Ryan Shi, Leah Lizarondo, Fei Fang
 <br>
 WWW-21: The 30th Web Conference
 <br>
-[<b><font color="#B03A2E">Pilot Study @412 Food Rescue</font></b>](https://412foodrescue.org/)
+[<b><font color="#B03A2E">RCT @412 Food Rescue</font></b>](https://412foodrescue.org/)
 <br>
 <a id="abs-frrecsys-button" onclick="absCHF('abs-frrecsys')" style="cursor:pointer;">[Abstract]</a>[[WWW version]](https://dl.acm.org/doi/abs/10.1145/3442381.3449787)
 <div id="abs-frrecsys" style="display:none;">
@@ -132,6 +132,8 @@ Working paper, 2020.
 Alison Hau, Fei Fang, Zheyuan Ryan Shi
 <br>
 COMPASS-21: the 4th ACM SIGCAS Conference on Computing and Sustainable Societies, Poster
+<br>
+<b>First last-author project</b>
 <br>
 <a id="abs-fbcompass-button" onclick="absCHF('abs-fbcompass')" style="cursor:pointer;">[Abstract]</a>[[COMPASS version]](https://dl.acm.org/doi/abs/10.1145/3460112.3471978)
 <div id="abs-fbcompass" style="display:none;">
