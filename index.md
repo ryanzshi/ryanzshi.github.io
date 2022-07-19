@@ -69,42 +69,57 @@ I am proud to be a specialist. I specialize in AI for nonprofits. Working with n
 </div>
 
 ---
+*If only we all published at most one paper a year. Make every one count.*
 
+**2023**
+<br>
+**NewsPanda: Media Monitoring for Timely Conservation Efforts**
+<br>
+Submitted to IAAI-23: 35th Annual Conference on Innovative Applications of Artificial Intelligence
+<br>
+Available soon.
+<br>
+[<b><font color="#B03A2E">Deployed @WWF</font></b>](https://www.worldwildlife.org/)
+
+**2022**
+<br>
 **Bandit Data-Driven Optimization**
 <br>
 Zheyuan Ryan Shi, Zhiwei Steven Wu, Rayid Ghani, Fei Fang
 <br>
 AAAI-22: the 36th AAAI Conference on Artificial Intelligence
 <br>
-<b>To be presented @INFORMS-22</b>
+<b><font color="#B03A2E">To be presented @INFORMS-22</font></b>
 <br>
 <a id="abs-bandit-button" onclick="absCHF('abs-bandit')" style="cursor:pointer;">[Abstract]</a>[[full version]](https://arxiv.org/abs/2008.11707)[[source code]](https://github.com/AIandSocialGoodLab/bandit-data-driven-optimization)
 <div id="abs-bandit" style="display:none;">
 <blockquote>The use of machine learning (ML) systems in real-world applications entails more than just a prediction algorithm. AI for social good applications, and many real-world ML tasks in general, feature an iterative process which joins prediction, optimization, and data acquisition happen in a loop. We introduce bandit data-driven optimization, the first iterative prediction-prescription framework to formally analyze this practical routine. Bandit data-driven optimization combines the advantages of online bandit learning and offline predictive analytics in an integrated framework. It offers a flexible setup to reason about unmodeled policy objectives and unforeseen consequences. We propose PROOF, the first algorithm for this framework and show that it achieves no-regret. Using numerical simulations, we show that PROOF achieves superior performance over existing baseline.</blockquote>
 </div>
 
-
+**2021**
+<br>
 **A Recommender System for Crowdsourcing Food Rescue Platforms**
 <br>
 Zheyuan Ryan Shi, Leah Lizarondo, Fei Fang
 <br>
 WWW-21: The 30th Web Conference
 <br>
-[<b><font color="#B03A2E">RCT @412 Food Rescue</font></b>](https://412foodrescue.org/)
+[<b><font color="#B03A2E">RCT'ed @412 Food Rescue</font></b>](https://412foodrescue.org/)
 <br>
 <a id="abs-frrecsys-button" onclick="absCHF('abs-frrecsys')" style="cursor:pointer;">[Abstract]</a>[[WWW version]](https://dl.acm.org/doi/abs/10.1145/3442381.3449787)
 <div id="abs-frrecsys" style="display:none;">
 <blockquote>The challenges of food waste and insecurity arise in wealthy and developing nations alike, impacting millions of livelihoods. The ongoing pandemic only exacerbates the problem. A major force to combat food waste and insecurity, food rescue (FR) organizations match food donations to the non-profits that serve low-resource communities. Since they rely on external volunteers to pick up and deliver the food, some FRs use web-based mobile applications to reach the right set of volunteers. In this paper, we propose the first machine learning based model to improve volunteer engagement in the food waste and security domain. We (1) develop a recommender system to send push notifications to the most likely volunteers for each given rescue, (2) leverage a mathematical programming based approach to diversify our recommendations, and (3) propose an online algorithm to dynamically select the volunteers to notify without the knowledge of future rescues. Our recommendation system improves the hit ratio from 44% achieved by the previous method to 73%. A pilot study of our method is scheduled to take place in the near future.</blockquote>
 </div>
 
-
+**2020**
+<br>
 **Improving Efficiency of Volunteer-Based Food Rescue Operations**
 <br>
 Zheyuan Ryan Shi\*, Yiwen Yuan\*, Kimberly Lo, Leah Lizarondo, Fei Fang
 <br>
 IAAI-20: 32nd Annual Conference on Innovative Applications of Artificial Intelligence
 <br>
-[<b><font color="#B03A2E">Adopted @412 Food Rescue</font></b>](https://412foodrescue.org/)
+[<b><font color="#B03A2E">Deployed @412 Food Rescue</font></b>](https://412foodrescue.org/)
 <br>
 <a id="abs-iaai20fr-button" onclick="absCHF('abs-iaai20fr')" style="cursor:pointer;">[Abstract]</a>[[IAAI version]](https://aaai.org/ojs/index.php/AAAI/article/view/7051)
 <div id="abs-iaai20fr" style="display:none;">
@@ -112,12 +127,13 @@ IAAI-20: 32nd Annual Conference on Innovative Applications of Artificial Intelli
 rescue platforms match excess food with the communities in need, and leverage external volunteers to transport the food. However, the external volunteers bring significant uncertainty to the food rescue operation. We work with a large food rescue organization to predict the uncertainty and furthermore to find ways to reduce the human dispatcher’s workload and the redundant notifications sent to volunteers. We make two main contributions. (1) We train a stacking model which predicts whether a rescue will be claimed with high precision and AUC. This model can help the dispatcher better plan for backup options and alleviate their uncertainty. (2) We develop a data-driven optimization algorithm to compute the optimal intervention and notification scheme. The algorithm uses a novel counterfactual data generation approach and the branch and bound framework. Our result reduces the number of notifications and interventions required in the food rescue operation. We are working with the organization to deploy our results in the near future.</blockquote>
 </div>
 
-
+**2019**
+<br>
 **Artificial Intelligence for Social Good: A Survey**
 <br>
 Zheyuan Ryan Shi, Claire Wang, Fei Fang
 <br>
-Working paper, 2020.
+Update pending, 2019.
 <br>
 <a id="abs-ai4sg-button" onclick="absCHF('abs-ai4sg')" style="cursor:pointer;">[Abstract]</a>[[Initial version]](https://arxiv.org/abs/2001.01818)
 <div id="abs-ai4sg" style="display:none;">
@@ -126,6 +142,8 @@ Working paper, 2020.
 
 
 ---
+*I'm interested in a bunch of stuff. I just don't get to do them as often these days.* 
+
 
 **Pallet Estimation for Food Bank Logistics Management**
 <br>
@@ -138,18 +156,6 @@ COMPASS-21: the 4th ACM SIGCAS Conference on Computing and Sustainable Societies
 <a id="abs-fbcompass-button" onclick="absCHF('abs-fbcompass')" style="cursor:pointer;">[Abstract]</a>[[COMPASS version]](https://dl.acm.org/doi/abs/10.1145/3460112.3471978)
 <div id="abs-fbcompass" style="display:none;">
 <blockquote>Food banks provide communities and organizations with food for those in need. One challenge they face is properly estimating the resources needed to fulfill orders. Estimating the number of shipping pallets needed for each order is an important step in allocating these resources, and coupled with limited data, provides a challenging mental task which the food bank staff grapple with on a daily basis. We provide an algorithm to estimate the number of pallets needed for an order based on the quantity of products, the known products-per-tier, and tiers-per-pallet values, as well as a scheme for testing this algorithm with limited data from the food bank. The algorithm aids in resource allocation by reducing uncertainty in the number of pallets needed.</blockquote>
-</div>
-
-
-**AI for Social Good: Between My Research and the Real World**
-<br>
-Zheyuan Ryan Shi
-<br>
-AAAI-21: the 35th AAAI Conference on Artificial Intelligence, Doctoral Consortium.
-<br>
-<a id="abs-aaaidc-button" onclick="absCHF('abs-aaaidc')" style="cursor:pointer;">[Abstract]</a>[[AAAI version]](https://ojs.aaai.org/index.php/AAAI/article/view/17863)
-<div id="abs-aaaidc" style="display:none;">
-<blockquote>AI for social good (AI4SG) is a research theme that aims to use and advance AI to improve the well-being of society. My work on AI4SG builds a two-way bridge between the research world and the real world. Using my unique experience in food waste and security, I propose applied AI4SG research that directly addresses real-world challenges which have received little attention from the community. Drawing from my experience in various AI4SG application domains, I propose bandit data-driven optimization, the first iterative prediction-prescription framework and a no-regret algorithm PROOF. I will apply PROOF back to my applied work on AI4SG, thereby closing the loop in a single framework.</blockquote>
 </div>
 
 
