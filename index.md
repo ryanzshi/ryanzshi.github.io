@@ -29,7 +29,7 @@ youtubeId: -1YCxEWexL8
               </p>
             </td>
             <td width="15%">
-              <img src="assets/ryan.jpg">
+              <img src="assets/ryan_shi.JPG">
             </td>
           </tr>
         </tbody></table>
