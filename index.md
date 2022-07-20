@@ -22,6 +22,9 @@ youtubeId: -1YCxEWexL8
               <a href="https://feifang.info/">Fei Fang</a> makes this possible.
               </p>
               <p>
+              I am leaving CMU in December 2022.
+              </p>
+              <p>
               <a id="bio-button" onclick="absCHF('abs-bio')" style="cursor:pointer;">[Bio]</a> 
               <a id="research-button" onclick="absCHF('abs-research')"  style="cursor:pointer;">[What is your research, exactly?]</a> 
               <a id="talk-button" onclick="absCHF('abs-talk')" style="cursor:pointer;">[Overview Talk]</a> 
@@ -77,9 +80,9 @@ I am proud to be a specialist. I specialize in AI for nonprofits. Working with n
 <br>
 Submitted to IAAI-23: 35th Annual Conference on Innovative Applications of Artificial Intelligence
 <br>
-Available soon.
+[<b><font color="#B03A2E">Deployed @World Wildlife Fund</font></b>](https://www.worldwildlife.org/)
 <br>
-[<b><font color="#B03A2E">Deployed @WWF</font></b>](https://www.worldwildlife.org/)
+Available soon
 
 **2022**
 <br>
