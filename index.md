@@ -259,7 +259,7 @@ URTC-16: 2016 MIT IEEE Undergraduate Research Technology Conference
 <p>
 <small>Love and time are the only way. At the end of the day, they are what we only have.</small>
 <br>
-<small>I don't use Twitter. Everything is on this website.</small>
+<small>I don't use any social media for work. Everything is on this website.</small>
 <br>
 <small>Copyright 2016 - {{site.time | date:"%Y"}} by Zheyuan Ryan Shi </small>
 </p>
