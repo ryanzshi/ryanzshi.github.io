@@ -65,7 +65,7 @@ I am proud to be a generalist. I study game theory, online learning, recommender
 I am proud to be a specialist. I specialize in AI for nonprofits. Working with nonprofits gives me the unique first-hard insight into many <a href="https://arxiv.org/abs/2008.11707">technical AI research questions</a> to address their pain points. Furthermore, AI for nonprofits will have its own set of research questions, concerning all stages of a project from problem formulation to deployment. I work on these questions so that we can build more robust bridges between nonprofits and technology teams in the future.
 <br>
 <br>
-That said, there are certain research topics that I don't do. I no longer identify my research with "AI for social good".
+That said, there are certain research topics that I don't do. I work on stuff that I would still do without money.
 </blockquote>
 </div>
 
