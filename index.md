@@ -62,7 +62,10 @@ function absCHF(Id) {
 <br>
 I am proud to be a generalist. I study game theory, online learning, recommender systems, reinforcement learning, and even NLP and HCI. My nonprofit partners' needs and the possibility of real-world deployment dictate what I study and what tools I use. Real collaboration happens when the grand research agenda is left off the table. <br>
 <br>
-I am proud to be a specialist. I specialize in AI for nonprofits. Working with nonprofits gives me the unique insight into their pain points. Such first-hand experience fuels many <a href="https://arxiv.org/abs/2008.11707">technical AI research questions</a> to address those pain points. Furthermore, AI for nonprofits will have its own set of research questions, concerning all stages of a project from problem formulation to deployment. I work on these questions so that we can build more robust bridges between nonprofits and technology teams in the future.
+I am proud to be a specialist. I specialize in AI for nonprofits. Working with nonprofits gives me the unique first-hard insight into many <a href="https://arxiv.org/abs/2008.11707">technical AI research questions</a> to address their pain points. Furthermore, AI for nonprofits will have its own set of research questions, concerning all stages of a project from problem formulation to deployment. I work on these questions so that we can build more robust bridges between nonprofits and technology teams in the future.
+<br>
+<br>
+That said, there are certain research topics that I don't do. I no longer identify my research with "AI for social good".
 </blockquote>
 </div>
 
