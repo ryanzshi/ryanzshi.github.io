@@ -79,13 +79,18 @@ That said, there are certain research topics that I don't do. I work on stuff th
 
 **2023**
 <br>
-**NewsPanda: Media Monitoring for Timely Conservation Efforts**
+**NewsPanda: Media Monitoring for Timely Conservation Action**
+<br>
+Sedrick Scott Keh\*, Zheyuan Ryan Shi\*, David J. Patterson, Nirmal Bhagabati, Karun Dewan, Areendran Gopala, Pablo Izquierdo, Debojyoti Mallick, Ambika Sharma, Pooja Shrestha, Fei Fang
 <br>
 Submitted to IAAI-23: 35th Annual Conference on Innovative Applications of Artificial Intelligence
 <br>
 [<b><font color="#B03A2E">Deployed @World Wildlife Fund</font></b>](https://www.worldwildlife.org/)
 <br>
-Available soon
+<a id="abs-newspanda-button" onclick="absCHF('abs-newspanda')" style="cursor:pointer;">[Abstract]</a>[[Preliminary version]](/papers/2023_IAAI_NewsPanda.pdf)
+<div id="abs-newspanda" style="display:none;">
+<blockquote>Non-governmental organizations for environmental conservation have a significant interest in monitoring conservation-related media and getting timely updates about infrastructure construction projects as they may cause massive impact to key conservation areas. Such monitoring, however, is difficult and time-consuming. We introduce NewsPanda, a toolkit which automatically detects and analyzes online articles related to environmental conservation and infrastructure construction. We fine-tune a BERT-based model using active learning methods and noise correction algorithms to identify articles that are relevant to conservation and infrastructure construction. For the identified articles, we perform further analysis, extracting keywords and finding potentially related sources. NewsPanda has been successfully deployed by the World Wide Fund for Nature teams in the UK, India, and Nepal since February 2022. It currently monitors over 80,000 websites and 1,074 conservation sites across India and Nepal, saving more than 30 hours of human efforts weekly. We have now scaled it up to cover 60,000 conservation sites globally.</blockquote>
+</div>
 
 **2022**
 <br>
@@ -97,7 +102,7 @@ AAAI-22: the 36th AAAI Conference on Artificial Intelligence
 <br>
 <b><font color="#B03A2E">To be presented @INFORMS-22</font></b>
 <br>
-<a id="abs-bandit-button" onclick="absCHF('abs-bandit')" style="cursor:pointer;">[Abstract]</a>[[full version]](https://arxiv.org/abs/2008.11707)[[source code]](https://github.com/AIandSocialGoodLab/bandit-data-driven-optimization)
+<a id="abs-bandit-button" onclick="absCHF('abs-bandit')" style="cursor:pointer;">[Abstract]</a>[[Full version]](https://arxiv.org/abs/2008.11707)[[Source code]](https://github.com/AIandSocialGoodLab/bandit-data-driven-optimization)
 <div id="abs-bandit" style="display:none;">
 <blockquote>The use of machine learning (ML) systems in real-world applications entails more than just a prediction algorithm. AI for social good applications, and many real-world ML tasks in general, feature an iterative process which joins prediction, optimization, and data acquisition happen in a loop. We introduce bandit data-driven optimization, the first iterative prediction-prescription framework to formally analyze this practical routine. Bandit data-driven optimization combines the advantages of online bandit learning and offline predictive analytics in an integrated framework. It offers a flexible setup to reason about unmodeled policy objectives and unforeseen consequences. We propose PROOF, the first algorithm for this framework and show that it achieves no-regret. Using numerical simulations, we show that PROOF achieves superior performance over existing baseline.</blockquote>
 </div>
@@ -112,7 +117,7 @@ WWW-21: The 30th Web Conference
 <br>
 [<b><font color="#B03A2E">RCT'ed @412 Food Rescue</font></b>](https://412foodrescue.org/)
 <br>
-<a id="abs-frrecsys-button" onclick="absCHF('abs-frrecsys')" style="cursor:pointer;">[Abstract]</a>[[WWW version]](https://dl.acm.org/doi/abs/10.1145/3442381.3449787)
+<a id="abs-frrecsys-button" onclick="absCHF('abs-frrecsys')" style="cursor:pointer;">[Abstract]</a>[[WWW version]](https://dl.acm.org/doi/abs/10.1145/3442381.3449787)[Field results paper available soon]
 <div id="abs-frrecsys" style="display:none;">
 <blockquote>The challenges of food waste and insecurity arise in wealthy and developing nations alike, impacting millions of livelihoods. The ongoing pandemic only exacerbates the problem. A major force to combat food waste and insecurity, food rescue (FR) organizations match food donations to the non-profits that serve low-resource communities. Since they rely on external volunteers to pick up and deliver the food, some FRs use web-based mobile applications to reach the right set of volunteers. In this paper, we propose the first machine learning based model to improve volunteer engagement in the food waste and security domain. We (1) develop a recommender system to send push notifications to the most likely volunteers for each given rescue, (2) leverage a mathematical programming based approach to diversify our recommendations, and (3) propose an online algorithm to dynamically select the volunteers to notify without the knowledge of future rescues. Our recommendation system improves the hit ratio from 44% achieved by the previous method to 73%. A pilot study of our method is scheduled to take place in the near future.</blockquote>
 </div>
