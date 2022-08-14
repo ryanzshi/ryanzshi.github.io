@@ -22,9 +22,6 @@ youtubeId: -1YCxEWexL8
               <a href="https://feifang.info/">Fei Fang</a> makes this possible.
               </p>
               <p>
-              I am leaving CMU in December 2022.
-              </p>
-              <p>
               <a id="bio-button" onclick="absCHF('abs-bio')" style="cursor:pointer;">[Bio]</a> 
               <a id="research-button" onclick="absCHF('abs-research')"  style="cursor:pointer;">[What is your research, exactly?]</a> 
               <a id="talk-button" onclick="absCHF('abs-talk')" style="cursor:pointer;">[Overview Talk]</a> 
