@@ -72,7 +72,7 @@ That said, there are certain research topics that I don't do. If I'd still blind
 </div>
 
 ---
-*If only we all published at most one paper a year. Make every one count.*
+*Good work trumps all. Make every one count.*
 
 **2023**
 <br>
