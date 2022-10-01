@@ -80,7 +80,7 @@ That said, there are certain research topics that I don't do. If I'd still blind
 <br>
 Sedrick Scott Keh\*, Zheyuan Ryan Shi\*, David J. Patterson, Nirmal Bhagabati, Karun Dewan, Areendran Gopala, Pablo Izquierdo, Debojyoti Mallick, Ambika Sharma, Pooja Shrestha, Fei Fang
 <br>
-Submitted to IAAI-23: 35th Annual Conference on Innovative Applications of Artificial Intelligence
+IAAI-23: 35th Annual Conference on Innovative Applications of Artificial Intelligence
 <br>
 [<b><font color="#B03A2E">Deployed @World Wildlife Fund</font></b>](https://www.worldwildlife.org/)
 <br>
