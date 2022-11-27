@@ -71,6 +71,19 @@ That said, there are certain research topics that I don't do. If I'd still blind
 {% include youtubePlayer.html id=page.youtubeId %}
 </div>
 
+
+---
+*I don't usually post this. But yes, I am on the job market this year.*
+
+<b>[December 2022]</b> Visiting two universities
+
+<b>[November 2022]</b> Attending the Rising Stars in Data Science workshop at the University of Chicago
+
+<b>[November 2022]</b> Attending the Symposium on Frontiers of ML and AI at the University of Southern California
+
+<b>[October 2022]</b> Presenting at INFORMS
+
+
 ---
 *Good work trumps all. Make every one count.*
 
