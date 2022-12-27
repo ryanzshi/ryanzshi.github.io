@@ -24,7 +24,6 @@ youtubeId: -1YCxEWexL8
               <p>
               <a id="bio-button" onclick="absCHF('abs-bio')" style="cursor:pointer;">[Bio]</a> 
               <a id="research-button" onclick="absCHF('abs-research')"  style="cursor:pointer;">[What is your research, exactly?]</a> 
-              <a id="talk-button" onclick="absCHF('abs-talk')" style="cursor:pointer;">[Overview Talk]</a> 
               <a href="assets/Ryan_Shi_CV.pdf">[CV]</a>
               </p>
             </td>
@@ -66,10 +65,6 @@ That said, there are certain research topics that I don't do. If I'd still blind
 </blockquote>
 </div>
 
-
-<div id="abs-talk" style="display:none;">
-{% include youtubePlayer.html id=page.youtubeId %}
-</div>
 
 
 ---
