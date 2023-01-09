@@ -105,7 +105,7 @@ Zheyuan Ryan Shi, Zhiwei Steven Wu, Rayid Ghani, Fei Fang
 <br>
 AAAI-22: the 36th AAAI Conference on Artificial Intelligence
 <br>
-<b><font color="#B03A2E">To be presented @INFORMS-22</font></b>
+<b><font color="#B03A2E">Presented @INFORMS-22</font></b>
 <br>
 <a id="abs-bandit-button" onclick="absCHF('abs-bandit')" style="cursor:pointer;">[Abstract]</a>[[Full version]](https://arxiv.org/abs/2008.11707)[[Source code]](https://github.com/AIandSocialGoodLab/bandit-data-driven-optimization)
 <div id="abs-bandit" style="display:none;">
@@ -288,8 +288,6 @@ URTC-16: 2016 MIT IEEE Undergraduate Research Technology Conference
 <footer>
 <p>
 <small>Love and time are the only way. At the end of the day, they are what we only have.</small>
-<br>
-<small>I don't use any social media for work. Everything is on this website.</small>
 <br>
 <small>Copyright 2016 - {{site.time | date:"%Y"}} by Zheyuan Ryan Shi </small>
 </p>
