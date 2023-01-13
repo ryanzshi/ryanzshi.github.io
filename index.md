@@ -16,7 +16,7 @@ youtubeId: -1YCxEWexL8
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
             <td width="85%" valign="middle">
-              <p>I research AI for nonprofits, with nonprofits, so that it could be used by nonprofits.
+              <p>I research AI for nonprofits, with nonprofits, which is actually used by nonprofits.
               </p>
               <p>
               <a href="https://feifang.info/">Fei Fang</a> makes this possible.
