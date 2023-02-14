@@ -48,7 +48,7 @@ function absCHF(Id) {
 
 <div id="abs-bio" style="display:none;">
 <blockquote>
-<b>Bio:</b> Ryan Shi is a final-year Ph.D. candidate of Societal Computing in the School of Computer Science at Carnegie Mellon University. He works with nonprofit organizations to address societal challenges in food security, environmental conservation, and public health using AI. <em>His research has been deployed at these organizations worldwide.</em> Shi studies game theory, online learning, and reinforcement learning on problems motivated by non-profit applications. He was the recipient of a Siebel Scholar award, an IEEE Computer Society Upsilon Pi Epsilon Scholarship, and a Carnegie Mellon Presidential Fellowship, and was selected as a Rising Star in Data Science and ML & AI, by UChicago and USC, respectively. Shi grew up in Henan, China before moving to the U.S., where he graduated from Swarthmore College with a B.A. in mathematics and computer science.
+<b>Bio:</b> Ryan Shi is a final-year Ph.D. candidate of Societal Computing in the School of Computer Science at Carnegie Mellon University. He works with nonprofit organizations to address societal challenges in food security, environmental conservation, and public health using AI. <em>His research has been deployed at these organizations worldwide.</em> Shi studies game theory, online learning, and reinforcement learning on problems motivated by non-profit applications. He was the recipient of a 2023 IAAI Deployed Application Award, a 2022 Siebel Scholar Award, and a 2021 Carnegie Mellon Presidential Fellowship, and was selected as a 2022 Rising Star in Data Science and ML & AI, by UChicago and USC, respectively. He has interned at Microsoft and Facebook during his Ph.D. Shi grew up in Henan, China before moving to the U.S., where he graduated from Swarthmore College with a B.A. in mathematics and computer science.
 </blockquote>
 </div>
 
@@ -76,6 +76,8 @@ That said, there are certain research topics that I don't do. If I'd still blind
 Sedrick Scott Keh\*, Zheyuan Ryan Shi\*, David J. Patterson, Nirmal Bhagabati, Karun Dewan, Areendran Gopala, Pablo Izquierdo, Debojyoti Mallick, Ambika Sharma, Pooja Shrestha, Fei Fang
 <br>
 IAAI-23: 35th Annual Conference on Innovative Applications of Artificial Intelligence
+<br>
+<b>Winner of IAAI Deployed Application Award</b>
 <br>
 [<b><font color="#B03A2E">Deployed @World Wildlife Fund</font></b>](https://www.worldwildlife.org/)
 <br>
@@ -203,17 +205,6 @@ GameSec-20: the 11th Conference on Decision and Game Theory for Security
 <blockquote>Today's high-stakes adversarial interactions feature attackers who constantly breach the ever-improving security measures. Deception mitigates the defender's loss by misleading the attacker to make suboptimal decisions. In order to formally reason about deception, we introduce the feature deception problem (FDP), a domain-independent model and present a learning and planning framework for finding the optimal deception strategy, taking into account the adversary's preferences which are initially unknown to the defender. We make the following contributions. (1) We show that we can uniformly learn the adversary's preferences using data from a modest number of deception strategies. (2) We propose an approximation algorithm for finding the optimal deception strategy given the learned preferences and show that the problem is NP-hard. (3) We perform extensive experiments to validate our methods and results. In addition, we provide a case study of the credit bureau network to illustrate how FDP implements deception on a real-world problem.</blockquote>
 </div>
 
-
-<!-- **Approximated Temporal-Induced Neural Self-Play for Finitely Repeated Bayesian Games**
-<br>
-Zihan Zhou, Zheyuan Ryan Shi, Yi Wu, Fei Fang
-<br>
-AAAI-20-RLG: AAAI-20 Workshop on Reinforcement Learning in Games
-<br>
-<a id="abs-pbne-button" onclick="absCHF('abs-pbne20')" style="cursor:pointer;">[Abstract]</a>
-<div id="abs-pbne20" style="display:none;">
-<blockquote>In two-player finitely repeated Bayesian games with one-sided incomplete information, there is a natural information asymmetry among the players. In each round of the game, the player with information disadvantage needs to infer the other player’s type from their actions. The other player, knowing that their actions reveal information about themselves, will balance between playing myopically and maintaining information advantage to maximize their accumulated payoff in the long-run, which can lead to deceptive actions. Computing the Perfect Bayesian Nash Equilibrium (PBNE) in such games can be computationally intractable for large games. In this paper, we propose a new learning-based framework to approximate PBNEs, which uses non-parametric approximation and reinforcement learning from self-play. Our initial results show that it can improve the scalability over existing methods and lead to strategy profiles that are close to PBNEs.</blockquote>
-</div> -->
 
 **Deep Reinforcement Learning for Green Security Games with Real-Time Information**
 <br>
