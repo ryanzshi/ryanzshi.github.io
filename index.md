@@ -22,6 +22,9 @@ youtubeId: -1YCxEWexL8
               <a href="https://feifang.info/">Fei Fang</a> makes this possible.
               </p>
               <p>
+              History showed that iPhone, 5G, and $$$$ didn't eliminate ICTD. Similarly, AlphaGo, GPT-4, and the like won't ever render AI for Nonprofits obsolete. In fact, it's one of the few areas in AI where academia is not fighting a losing battle. So, academia, you should hire me.
+              </p>
+              <p>
               <a id="bio-button" onclick="absCHF('abs-bio')" style="cursor:pointer;">[Bio]</a> 
               <a id="research-button" onclick="absCHF('abs-research')"  style="cursor:pointer;">[What is your research, exactly?]</a> 
               <a href="assets/Ryan_Shi_CV.pdf">[CV]</a>
