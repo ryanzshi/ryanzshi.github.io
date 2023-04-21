@@ -97,8 +97,6 @@ Zheyuan Ryan Shi, Zhiwei Steven Wu, Rayid Ghani, Fei Fang
 <br>
 AAAI-22: the 36th AAAI Conference on Artificial Intelligence
 <br>
-<b><font color="#B03A2E">Presented @INFORMS-22</font></b>
-<br>
 <a id="abs-bandit-button" onclick="absCHF('abs-bandit')" style="cursor:pointer;">[Abstract]</a>[[Full version]](https://arxiv.org/abs/2008.11707)[[Source code]](https://github.com/AIandSocialGoodLab/bandit-data-driven-optimization)
 <div id="abs-bandit" style="display:none;">
 <blockquote>The use of machine learning (ML) systems in real-world applications entails more than just a prediction algorithm. AI for social good applications, and many real-world ML tasks in general, feature an iterative process which joins prediction, optimization, and data acquisition happen in a loop. We introduce bandit data-driven optimization, the first iterative prediction-prescription framework to formally analyze this practical routine. Bandit data-driven optimization combines the advantages of online bandit learning and offline predictive analytics in an integrated framework. It offers a flexible setup to reason about unmodeled policy objectives and unforeseen consequences. We propose PROOF, the first algorithm for this framework and show that it achieves no-regret. Using numerical simulations, we show that PROOF achieves superior performance over existing baseline.</blockquote>
@@ -113,8 +111,6 @@ Zheyuan Ryan Shi, Leah Lizarondo, Fei Fang
 WWW-21: The 30th Web Conference
 <br>
 Part of book chapter in AI for Social Impact
-<br>
-Extended version with RCT results submitted to Management Science
 <br>
 [<b><font color="#B03A2E">RCT'ed @412 Food Rescue</font></b>](https://412foodrescue.org/)
 <br>
