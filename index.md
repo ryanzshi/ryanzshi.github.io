@@ -16,10 +16,7 @@ youtubeId: -1YCxEWexL8
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
             <td width="85%" valign="middle">
-              <p>I research AI for nonprofits, with nonprofits, which is actually used by nonprofits.
-              </p>
-              <p>
-              <a href="https://feifang.info/">Fei Fang</a> makes this possible.
+              <p>I research AI for public sector that is actually deployed in the real world.
               </p>
               <p>
               I am joining <a href="https://www.cs.pitt.edu/">Pitt CS</a> as an Assistant Professor in Spring 2024. More details to follow!
@@ -51,7 +48,7 @@ function absCHF(Id) {
 
 <div id="abs-bio" style="display:none;">
 <blockquote>
-<b>Bio:</b> Ryan Shi is a final-year Ph.D. candidate of Societal Computing in the School of Computer Science at Carnegie Mellon University. He works with nonprofit organizations to address societal challenges in food security, environmental conservation, and public health using AI. <em>His research has been deployed at these organizations worldwide.</em> Shi studies game theory, online learning, and reinforcement learning on problems motivated by non-profit applications. He was the recipient of a 2023 IAAI Deployed Application Award, a 2022 Siebel Scholar Award, and a 2021 Carnegie Mellon Presidential Fellowship, and was selected as a 2022 Rising Star in Data Science and ML & AI, by UChicago and USC, respectively. He has interned at Microsoft and Facebook during his Ph.D. Shi grew up in Henan, China before moving to the U.S., where he graduated from Swarthmore College with a B.A. in mathematics and computer science.
+<b>Bio:</b> Ryan Shi is an Assistant Professor in the Department of Computer Science at the University of Pittsburgh as of January 2024. He received his Ph.D. in Societal Computing from Carnegie Mellon University. He works with public sector organizations to address societal challenges in food security, environmental conservation, and public health using AI. <em>His research has been deployed at these organizations worldwide.</em> He was the recipient of a 2023 IAAI Deployed Application Award, a 2022 Siebel Scholar Award, and a 2021 Carnegie Mellon Presidential Fellowship, and was selected as a 2022 Rising Star in Data Science and ML & AI, by UChicago and USC, respectively. Previously, he consulted for DataKind and interned at Microsoft and Facebook. He grew up in Henan, China before moving to the U.S., where he graduated from Swarthmore College with a B.A. in mathematics and computer science.
 </blockquote>
 </div>
 
@@ -59,19 +56,26 @@ function absCHF(Id) {
 <blockquote>
 <b>What is your research, exactly?</b><br>
 <br>
-I am proud to be a generalist. I study game theory, online learning, recommender systems, reinforcement learning, and even NLP and HCI. My nonprofit partners' needs and the possibility of real-world deployment dictate what I study and what tools I use. Real collaboration happens when the grand research agenda is left off the table. <br>
+I am proud to be a generalist. I study game theory, recommender systems, reinforcement learning, NLP and HCI. My public sector partners' needs and the possibility of real-world deployment dictate what I study and what tools I use. Real collaboration happens when the grand research agenda is left off the table. <br>
 <br>
-I am proud to be a specialist. I specialize in AI for nonprofits. Working with nonprofits gives me the unique first-hard insight into many <a href="https://arxiv.org/abs/2008.11707">technical AI research questions</a> to address their pain points. Furthermore, AI for nonprofits will have its own set of research questions, concerning all stages of a project from problem formulation to deployment. I work on these questions so that we can build more robust bridges between nonprofits and technology teams in the future.
-<br>
-<br>
-That said, there are certain research topics that I don't do. If I'd still blindly go after hot topics, why stay in academia?
+I am proud to be a specialist. I specialize in AI for public sector. Working with these organizations gives me the unique first-hard insight into many <a href="https://arxiv.org/abs/2008.11707">technical AI research questions</a> to address their pain points. Furthermore, AI for public sector will have its own set of research questions, concerning all stages of a project from problem formulation to deployment. I work on these questions so that we can build more robust bridges between public sector organizations and technology teams in the future.
 </blockquote>
 </div>
 
+---
+<h2 style="color:#515051; text-align: center;">News</h2>
+August 2023: Invited talk and panel at the RL in the Real World Workshop at AIGC 2023<br>
+<br>
+April 2023: Started consulting for DataKind<br>
+<br>
+February 2023: NewsPanda received IAAI Deployed Application Award<br>
+<br>
+November 2022: Selected as Rising Star in Data Science by University of Chicago<br>
+<br>
+November 2022: Selected as Rising Star in ML & AI by University of Southern California<br>
 
 ---
-*Good work trumps all. Make every one count.*
-
+<h2 style="color:#515051; text-align: center;">Some Publications</h2>
 **2023**
 <br>
 **NewsPanda: Media Monitoring for Timely Conservation Action**
@@ -84,7 +88,7 @@ IAAI-23: 35th Annual Conference on Innovative Applications of Artificial Intelli
 <br>
 [<b><font color="#B03A2E">Deployed @World Wildlife Fund</font></b>](https://www.worldwildlife.org/)
 <br>
-<a id="abs-newspanda-button" onclick="absCHF('abs-newspanda')" style="cursor:pointer;">[Abstract]</a>[[Preliminary version]](/papers/2023_IAAI_NewsPanda.pdf)
+<a id="abs-newspanda-button" onclick="absCHF('abs-newspanda')" style="cursor:pointer;">[Abstract]</a>[[IAAI version]](https://ojs.aaai.org/index.php/AAAI/article/view/26841)
 <div id="abs-newspanda" style="display:none;">
 <blockquote>Non-governmental organizations for environmental conservation have a significant interest in monitoring conservation-related media and getting timely updates about infrastructure construction projects as they may cause massive impact to key conservation areas. Such monitoring, however, is difficult and time-consuming. We introduce NewsPanda, a toolkit which automatically detects and analyzes online articles related to environmental conservation and infrastructure construction. We fine-tune a BERT-based model using active learning methods and noise correction algorithms to identify articles that are relevant to conservation and infrastructure construction. For the identified articles, we perform further analysis, extracting keywords and finding potentially related sources. NewsPanda has been successfully deployed by the World Wide Fund for Nature teams in the UK, India, and Nepal since February 2022. It currently monitors over 80,000 websites and 1,074 conservation sites across India and Nepal, saving more than 30 hours of human efforts weekly. We have now scaled it up to cover 60,000 conservation sites globally.</blockquote>
 </div>
@@ -152,8 +156,7 @@ Update pending, 2019.
 
 
 ---
-*I'm interested in a bunch of stuff. I just don't get to do them as often these days.* 
-
+<h2 style="color:#515051; text-align: center;">Some More Publications</h2>
 **MAVIPER: Learning Decision Tree Policies for Interpretable Multi-Agent Reinforcement Learning**
 <br>
 Stephanie Milani, Zhicheng Zhang, Nicholay Topin, Zheyuan Ryan Shi, Charles Kamhoua, Evangelos E Papalexakis, Fei Fang
