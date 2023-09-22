@@ -64,9 +64,9 @@ I am proud to be a specialist. I specialize in AI for public sector. Working wit
 
 ---
 <h2 style="color:#515051; text-align: center;">News</h2>
-September 2023: Co-organizing Workshop on Public Sector LLMs: Algorithmic and Sociotechnical Design at AAAI 2024<br>
+September 2023: Co-organizing [AAAI-2024 Workshop on Public Sector LLMs: Algorithmic and Sociotechnical Design](https://publlm.github.io/)<br>
 <br>
-August 2023: Invited talk and panel at the RL in the Real World Workshop at AIGC 2023<br>
+August 2023: Invited talk and panel at the RL in the Real World Workshop at the [1st International Conference on AI-generated Content (AIGC-2023)](https://icaigc.org/index.html)<br>
 <br>
 April 2023: Started consulting for DataKind<br>
 <br>
