@@ -1995,7 +1995,7 @@ input, select, textarea {
 	}
 
 		.features section {
-			padding: 3.5em 3em 1em 7em ;
+			padding: 1.5em 1em 0em 5em ;
 			width: 50%;
 			border-top: solid 1px rgba(255, 255, 255, 0.15);
 			position: relative;
@@ -2023,8 +2023,8 @@ input, select, textarea {
 				-ms-transform: scale(1);
 				transform: scale(1);
 				position: absolute;
-				left: 3em;
-				top: 3em;
+				left: 1.5em;
+				top: 1.5em;
 				opacity: 1;
 			}
 
